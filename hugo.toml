@@ -1,0 +1,36 @@
+baseURL = 'https://cutydina.github.io/'
+languageCode = 'es-es'
+title = 'CutyDina | Illustration & Game Dev'
+theme = 'hugo-theme-bootstrap'
+
+[params]
+  # Activa el modo oscuro para que combine con tu Nobara
+  defaultColor = 'dark'
+  # Esto le dice a Hugo que use la cuadrícula para tus posts
+  mainSections = ['posts', 'portfolio']
+  # Para que las imágenes de tus dibujos se vean bien en las cards
+  cardHeight = '200px'
+
+[menu]
+  # Aquí replicamos el menú que tenías en la barra lateral de Blogger
+  [[menu.main]]
+    name = 'Sobre mí'
+    url = '/about'
+    weight = 10
+  [[menu.main]]
+    name = 'Videojuegos'
+    url = '/videogames'
+    weight = 20
+  [[menu.main]]
+    name = 'Comisiones'
+    url = '/commissions'
+    weight = 30
+  [[menu.main]]
+    name = 'Portfolio'
+    url = '/portfolio'
+    weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Esto te permite meter HTML/Bootstrap dentro de tus posts
