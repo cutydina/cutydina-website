@@ -6,8 +6,8 @@ theme = 'hugo-theme-bootstrap'
 [params]
   # Activa el modo oscuro para que combine con tu Nobara
   defaultColor = 'dark'
-  # Esto le dice a Hugo que use la cuadrícula para tus posts
-  mainSections = ['posts', 'portfolio']
+  # Esto le dice a Hugo que use la cuadrícula para tus posts y portfolio
+  mainSections = ['blog', 'portfolio']
   # Para que las imágenes de tus dibujos se vean bien en las cards
   cardHeight = '200px'
 
@@ -25,6 +25,10 @@ theme = 'hugo-theme-bootstrap'
     name = 'Comisiones'
     url = '/commissions'
     weight = 30
+  [[menu.main]]
+    name = 'Blog'
+    url = '/blog'
+    weight = 35
   [[menu.main]]
     name = 'Portfolio'
     url = '/portfolio'
