@@ -8,16 +8,15 @@ Hello, I'm open to any kind of commission regarding my skills, and here is a lis
 
 ![Commissions](cover.svg)
 
-##Commission Rules
+### Commission Rules
 
-    Payments will be upfront, and can be done trough Paypal, Payoneer, Wire tranfer or Cryptocurrency .
-    I'm open to NSFW illustration/animations as long as it's not an illegal topic, and samples of this kind of work will not be shown at my website.
-    Source Files delivery will have an extra fee .
-    I will not work under pressure, if you have a deadline, please let me know before start so I can tell you if I can deliver for that date.
-    Paid commissions includes Commercial use, and also Copyright will be granted to you, and if you don't want me to upload to my website later, please tell me when finished.
-    Payment can also be done via cryptocurrency, but because all SCAM in that field, I don't make responsable of any lost on this kind of payment. I can provide my wallet adress, but payment is at your own risk.
+- Payments will be upfront, and can be done trough Paypal, Payoneer, Wire tranfer or Cryptocurrency I'm open to NSFW illustration/animations as long as it's not an illegal topic, and samples of this kind of work will not be shown at my website.
+- Source Files delivery will have an extra fee .
+- I will not work under pressure, if you have a deadline, please let me know before start so I can tell you if I can deliver for that date.
+- Paid commissions includes Commercial use, and also Copyright will be granted to you, and if you don't want me to upload to my website later, please tell me when finished.
+- Payment can also be done via cryptocurrency, but because all SCAM in that field, I don't make responsable of any lost on this kind of payment. I can provide my wallet adress, but payment is at your own risk.
 
-##About Cryptocurrencies
+### About Cryptocurrencies
 
 Because all SCAM in that field, I don't make responsable of any lost on this kind of payment. I can provide my wallet address, but payment is at your own risk.
 About Source Files

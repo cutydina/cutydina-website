@@ -15,12 +15,12 @@ The last Children Book I have worked for. I really enjoyed doing both the illust
 ### Look inside
 <div class="row">
   <div class="col-lg">
-    <img src="sample01.png" alt="Sample01">
+    <img src="sample01.jpg" alt="Sample01">
   </div>
   <div class="col-lg">
-    <img src="sample02.png" alt="Sample02">
+    <img src="sample02.jpg" alt="Sample02">
   </div>
   <div class="col-lg">
-    <img src="sample03.png" alt="Sample03">
+    <img src="sample03.jpg" alt="Sample03">
   </div>
 </div>
