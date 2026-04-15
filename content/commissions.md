@@ -6,7 +6,7 @@ draft = false
 
 Hello, I'm open to any kind of commission regarding my skills, and here is a list of my rules when I work on commissions. Feel free to read it carefully and contact me to info@cutydina.com if you need an estimate for your project. I'm also on work pages, such as PeoplePerHour and UpWork work plaform, but right now I'm focusing more on VGen, there you can see some estimates for my most common commissions.
 
-Commission Rules
+##Commission Rules
 
     Payments will be upfront, and can be done trough Paypal, Payoneer, Wire tranfer or Cryptocurrency .
     I'm open to NSFW illustration/animations as long as it's not an illegal topic, and samples of this kind of work will not be shown at my website.
@@ -15,7 +15,7 @@ Commission Rules
     Paid commissions includes Commercial use, and also Copyright will be granted to you, and if you don't want me to upload to my website later, please tell me when finished.
     Payment can also be done via cryptocurrency, but because all SCAM in that field, I don't make responsable of any lost on this kind of payment. I can provide my wallet adress, but payment is at your own risk.
 
-About Cryptocurrencies
+##About Cryptocurrencies
 
 Because all SCAM in that field, I don't make responsable of any lost on this kind of payment. I can provide my wallet address, but payment is at your own risk.
 About Source Files
