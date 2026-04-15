@@ -1,6 +1,6 @@
 +++
-title = "Pinups"
-date = 2026-04-14
+title = "The other cheek"
+date = 2017-07-24
 draft = false
 +++
 

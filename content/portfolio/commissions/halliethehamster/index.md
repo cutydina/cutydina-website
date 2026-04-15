@@ -1,6 +1,6 @@
 +++
 title = "Hallie the Hamster"
-date = 2026-04-14
+date = 2017-02-18
 draft = false
 +++
 

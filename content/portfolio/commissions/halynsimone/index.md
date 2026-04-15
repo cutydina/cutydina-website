@@ -1,6 +1,6 @@
 +++
 title = "Halyn Simone Engineer Kidd"
-date = 2026-04-14
+date = 2020-11-27
 draft = false
 +++
 

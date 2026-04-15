@@ -1,6 +1,6 @@
 +++
 title = "Lovamals"
-date = 2026-04-14
+date = 2015-06-24
 draft = false
 +++
 

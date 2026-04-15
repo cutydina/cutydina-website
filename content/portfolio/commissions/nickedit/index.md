@@ -1,6 +1,6 @@
 +++
 title = "Nickedit"
-date = 2026-04-14
+date = 2019-12-28
 draft = false
 +++
 

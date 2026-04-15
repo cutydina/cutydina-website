@@ -1,6 +1,6 @@
 +++
 title = "Juggs Bar and Grill Logo"
-date = 2026-04-14
+date = 2019-06-24
 draft = false
 +++
 

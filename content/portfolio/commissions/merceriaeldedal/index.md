@@ -1,6 +1,6 @@
 +++
 title = "Merceria el Dedal"
-date = 2026-04-14
+date = 2013-01-15
 draft = false
 +++
 
