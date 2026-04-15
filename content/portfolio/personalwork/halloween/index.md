@@ -1,6 +1,6 @@
 +++
 title = "Happy Halloween"
-date = 2026-04-14
+date = 2025-10-28
 draft = false
 +++
 

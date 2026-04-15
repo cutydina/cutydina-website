@@ -1,6 +1,6 @@
 +++
 title = "Bruce Whipple Illustrations"
-date = 2026-04-14
+date = 2019-04-23
 draft = false
 +++
 

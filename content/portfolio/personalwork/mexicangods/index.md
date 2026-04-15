@@ -1,6 +1,6 @@
 +++
 title = "Mexican Gods Pinups"
-date = 2026-04-14
+date = 2018-06-25
 draft = false
 +++
 

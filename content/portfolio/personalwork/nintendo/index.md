@@ -1,6 +1,6 @@
 +++
 title = "Nintendo FanArts"
-date = 2026-04-14
+date = 2024-04-12
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Pinky Mermaid"
-date = 2026-04-14
+date = 2020-05-12
 draft = false
 +++
 

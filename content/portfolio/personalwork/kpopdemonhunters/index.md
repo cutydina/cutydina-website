@@ -1,6 +1,6 @@
 +++
 title = 'Kpop Demon Hunters FanArts'
-date = '2025-07-27T12:00:00Z'
+date = 2025-07-27
 draft = false
 +++
 

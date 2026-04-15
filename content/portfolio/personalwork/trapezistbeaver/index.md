@@ -1,6 +1,6 @@
 +++
 title = "Trapezist Beaver"
-date = 2026-04-14
+date = 2018-06-24
 draft = false
 +++
 

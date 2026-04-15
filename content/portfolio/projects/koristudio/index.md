@@ -1,6 +1,6 @@
 +++
 title = "KoriStudio"
-date = 2026-04-14
+date = 2022-09-11
 draft = false
 +++
 

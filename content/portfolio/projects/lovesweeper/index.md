@@ -1,7 +1,27 @@
 +++
 title = "Love Sweeper"
-date = 2026-04-14
+date = 2023-09-23
 draft = false
 +++
 
-Descripción de Lovesweeper.
+And here another game made in Godot! A cute MineSweeper with cute skins.
+
+![Hungry Caterpillar](cover.jpg)
+
+> "Enjoy the classic minesweeper with a lovely and cute interface. Now with more skins!"
+
+[Download for Free](https://play.google.com/store/apps/details?id=com.CutyDinaGames.LoveSweeper)
+
+### Screenshots
+<div class="row">
+  <div class="col-lg">
+    <img src="screenshot01.png" alt="Screenshot01">
+  </div>
+  <div class="col-lg">
+    <img src="screenshot02.png" alt="Screenshot02">
+  </div>
+  <div class="col-lg">
+    <img src="screenshot03.png" alt="Screenshot03">
+  </div>
+</div>
+

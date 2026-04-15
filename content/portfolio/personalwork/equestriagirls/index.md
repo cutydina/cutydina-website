@@ -1,6 +1,6 @@
 +++
 title = "Equestria Girls FanArts"
-date = 2026-04-14
+date = 2016-06-25
 draft = false
 +++
 

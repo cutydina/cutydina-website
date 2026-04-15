@@ -1,6 +1,6 @@
 +++
 title = "Bambalinas y Ole"
-date = 2026-04-14
+date = 2017-06-24
 draft = false
 +++
 

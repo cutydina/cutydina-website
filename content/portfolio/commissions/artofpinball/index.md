@@ -1,6 +1,6 @@
 +++
 title = "The Art of Pinball"
-date = 2026-04-14
+date = 2021-01-08
 draft = false
 +++
 

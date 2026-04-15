@@ -4,7 +4,7 @@ date = 2021-01-16
 draft = false
 +++
 
-![SonnaChronicles](cover.jpg)
+![My life in doodles](cover.jpg)
 
 Comic Strips I decided to create. The first one was made as a personal relief, and then I decided to make strips just for fun. My strips are been uploaded via **Webtoons**, if you want to follow me and read more of them.
 

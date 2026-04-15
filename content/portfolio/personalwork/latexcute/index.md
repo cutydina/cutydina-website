@@ -1,6 +1,6 @@
 +++
 title = "Latex Cute"
-date = 2026-04-14
+date = 2020-03-18
 draft = false
 +++
 

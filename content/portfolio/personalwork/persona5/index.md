@@ -1,6 +1,6 @@
 +++
 title = "Persona 5 FanArt"
-date = 2026-04-14
+date = 2018-09-08
 draft = false
 +++
 
