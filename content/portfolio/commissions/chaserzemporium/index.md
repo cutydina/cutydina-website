@@ -1,5 +1,5 @@
 +++
-title = "Chazer Emporium Illustrations"
+title = "Chaserz Emporium Illustrations"
 date = 2026-04-14
 draft = false
 +++
