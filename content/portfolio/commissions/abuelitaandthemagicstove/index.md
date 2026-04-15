@@ -8,21 +8,19 @@ The last Children Book I have worked for. I really enjoyed doing both the illust
 
 ![Cover](cover.jpg)
 
+> "Vicky cannot believe that her Abuelita can cook so much food for their huge family on such a little old stove and she is convinced there is magic happening inside that kitchen. She is super excited when Abuelita invites her to help cook the family's Sunday dinner..."
 
-> "Vicky cannot believe that her Abuelita can cook so much food for their huge family on such a little old stove and she is convinced there is magic happening inside that kitchen. She is super excited when Abuelita invites her to help cook the family's Sunday dinner..."</blockquote>
+[Buy now](https://a.co/d/5d9y5ZL)
 
-<div class="text-center"><a class="mybtn" href="https://a.co/d/5d9y5ZL" target="_blank"><i class="cd cd-social-amazon"></i> Buy now</a></div>  
-
-##Look inside
+### Look inside
 <div class="row">
-<div class="col-lg-4">
-<img /></a></div>
-  
-<div class="row">
-<div class="col-lg-4">
-<img /></a></div>
-  
-<div class="row">
-<div class="col-lg-4">
-<img /></a></div>
+  <div class="col-lg">
+    <img src="sample01.png" alt="Sample01">
+  </div>
+  <div class="col-lg">
+    <img src="sample02.png" alt="Sample02">
+  </div>
+  <div class="col-lg">
+    <img src="sample03.png" alt="Sample03">
+  </div>
 </div>
