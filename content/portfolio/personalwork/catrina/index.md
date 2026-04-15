@@ -1,5 +1,5 @@
 +++
-title = "Catrina"
+title = "La Catrina"
 date = 2022-10-22
 draft = false
 +++

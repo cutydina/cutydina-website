@@ -1,5 +1,5 @@
 +++
-title = "Bambalinasyole"
+title = "Bambalinas y Ole"
 date = 2026-04-14
 draft = false
 +++

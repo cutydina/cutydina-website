@@ -1,5 +1,5 @@
 +++
-title = "Sonnachronicles"
+title = "Sonna Chronicles"
 date = 2021-02-27
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Ps5"
+title = "PS5 Pinup"
 date = 2026-04-14
 draft = false
 +++

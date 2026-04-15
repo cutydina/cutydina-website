@@ -1,5 +1,5 @@
 +++
-title = "Rainbowhair"
+title = "Rainbow hair"
 date = 2026-04-14
 draft = false
 +++

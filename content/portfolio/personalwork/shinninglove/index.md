@@ -1,5 +1,5 @@
 +++
-title = "Shinninglove"
+title = "Shinning Love"
 date = 2026-04-14
 draft = false
 +++

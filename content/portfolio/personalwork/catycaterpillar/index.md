@@ -1,5 +1,5 @@
 +++
-title = "Catycaterpillar"
+title = "Caty Caterpillar FanArt"
 date = 2022-12-22
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Utena"
+title = "Utena FanArt"
 date = 2026-04-14
 draft = false
 +++

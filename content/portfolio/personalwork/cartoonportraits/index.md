@@ -1,5 +1,5 @@
 +++
-title = "Cartoonportraits"
+title = "Cartoon Portraits Collection"
 date = 2025-06-20
 draft = false
 +++

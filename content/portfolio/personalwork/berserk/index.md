@@ -1,5 +1,5 @@
 +++
-title = "Berserk"
+title = "Berserk FanArt"
 date = 2022-05-21
 draft = false
 +++
