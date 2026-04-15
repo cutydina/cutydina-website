@@ -5,7 +5,10 @@ draft = false
 +++
 
 ##Hello!
+
 I'm Geraldina Sierra
+
+![About](cover.svg)
 
 I'm a 2D Digital Illustrator and 2D Animator, focused on creating content for different kind of projects, such as comics, video games, animated series, children's books, website design and anything art related.
 

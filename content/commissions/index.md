@@ -6,6 +6,8 @@ draft = false
 
 Hello, I'm open to any kind of commission regarding my skills, and here is a list of my rules when I work on commissions. Feel free to read it carefully and contact me to info@cutydina.com if you need an estimate for your project. I'm also on work pages, such as PeoplePerHour and UpWork work plaform, but right now I'm focusing more on VGen, there you can see some estimates for my most common commissions.
 
+![Commissions](cover.svg)
+
 ##Commission Rules
 
     Payments will be upfront, and can be done trough Paypal, Payoneer, Wire tranfer or Cryptocurrency .
