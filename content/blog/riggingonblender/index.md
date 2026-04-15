@@ -1,5 +1,5 @@
 +++
-title = Rigging 2D character in Blender 2.82
+title = "Rigging 2D character in Blender 2.82"
 date = 2020-04-14
 draft = false
 +++

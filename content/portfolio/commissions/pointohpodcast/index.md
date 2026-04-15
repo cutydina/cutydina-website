@@ -1,6 +1,6 @@
 +++
 title = "Pointohpodcast"
-date = 2026-04-14
+date = 2022-10-13
 draft = false
 +++
 

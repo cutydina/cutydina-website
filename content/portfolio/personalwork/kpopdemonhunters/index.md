@@ -7,6 +7,7 @@ draft = false
 Just wanted to join some stuff in this fanart. Reminded me a little to the Powerpuff Girls and Sailor Moon. So decided to make a mixure of 90s style with cute poses and colors of PowerPuff girls. Hope you like it, I enjoy a lot doing it.
 
 ![Huntrix](cover.jpg)
+
 ![Saja boys](sajaboys.jpg)
 
 
