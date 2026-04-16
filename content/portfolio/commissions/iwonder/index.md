@@ -6,7 +6,7 @@ draft = false
 
 Children's book in which I have been in charge of both the cover and the interior illustrations, with a simple but imaginative premise. I enjoyed creating the characters and backgrounds for this cute story, specially the fluffy and adorable main character.
 
-![Cover](cover.jpg)
+![I wonder whats above the sky](cover.jpg)
 
 > "In the first book of the I Wonder series, Join Ben on an adventure to find out what it’s really like above the clouds... Especially when you’re kind to the new people you meet!..."
 

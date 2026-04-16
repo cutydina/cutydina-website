@@ -14,7 +14,7 @@ Here another videogame made in Godot. This time a cute Skake classic game, this 
 [Download for Free](https://play.google.com/store/apps/details?id=com.CutyDinaGames.HungryCaterpillar)
 
 ### Trailer
-{{< iframe src="https://www.youtube.com/embed/ZWVXBGCidwk" fullscreen=true title="Timelapse 1" >}}
+{{< iframe src="https://www.youtube.com/embed/ZWVXBGCidwk" fullscreen=true title="Trailer" >}}
 
 ### Screenshots
 <div class="row">

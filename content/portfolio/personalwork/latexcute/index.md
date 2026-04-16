@@ -6,6 +6,6 @@ draft = false
 
 Request from my husband. Some cute pinups in sketch style based on latex outfits designs, using a different way of coloring, but still being cute, colorful and sexy. Illustrations made using **Clip Studio Paint** Brushes.
 
-![Latex](cover.jpg) 
+![Latex Violin](cover.jpg) 
 
-![LatexCat](latexcat.jpg) 
+![Latex Cat](latexcat.jpg) 

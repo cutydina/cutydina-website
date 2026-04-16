@@ -16,17 +16,17 @@ Simple brief, client want something cute, similar to Helly Kitty style and with 
 
 ### Boook Covers
 
-![Book Cover](book01.jpg)
+![Book Cover 01](book01.jpg)
 
-![Book Cover](book02.jpg)
+![Book Cover 02](book02.jpg)
 
-![Book Cover](book03.jpg)
+![Book Cover 03](book03.jpg)
 
-![Book Cover](book04.jpg)
+![Book Cover 04](book04.jpg)
 
-![Book Cover](book05.jpg)
+![Book Cover 05](book05.jpg)
 
-![Book Cover](book06.jpg)
+![Book Cover 06](book06.jpg)
 
 ### Character sheet
 

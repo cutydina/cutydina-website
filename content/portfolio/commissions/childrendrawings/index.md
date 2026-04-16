@@ -8,7 +8,7 @@ One of the last commissions I've been working on lately. A contest for students 
 
 These are some samples of the projects in which I was in charge of the vectorization.
 
-![Cover](cover.jpg)  
+![Eagle](cover.jpg)  
   
 ![Eagle Blue](eagleblue.jpg)
   

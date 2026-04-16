@@ -6,7 +6,7 @@ draft = false
 
 After some time not doing anything digital, I decided to draw again on my tablet. Sorry for some issues in the image, but in these times, we need to poison everyting we upload, since there a a lot of ai thieves on the internet. Anyway, this is a redraw of an old drawing of mine I did long time ago. Enjoy.
 
-![Mario](cover.jpg) 
+![Mario Princessess](cover.jpg) 
 
 ### Time-lapse
 

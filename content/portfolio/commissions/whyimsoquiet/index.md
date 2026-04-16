@@ -1,12 +1,12 @@
 +++
-title = "Whyimsoquiet"
+title = "Why I'm so quiet"
 date = 2022-06-18
 draft = false
 +++
 
 Children's book in which I have illustrated the cover and interior illustrations. This time I was asked for a more realistic style, and I really enjoy the experience. I really enjoy giving life this cute book.
 
-![Cover](cover.jpg)
+![Why I'm so quiet](cover.jpg)
 
 > "In an environment full of people with so much to say, enters a story that encourages and supports the quiet listeners. Ava Reed is an 8-year-old girl with a calm spirit and a listening ear..."
 

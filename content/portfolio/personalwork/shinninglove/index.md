@@ -14,4 +14,4 @@ Shining Love **Time-lapse** Drawing. Illustration for the new contest of **Clip 
 
 ### Desktop Wallpaper
 
-![Wallpaper](wallpaper.jpg)
+![Shinning Love Wallpaper](wallpaper.jpg)

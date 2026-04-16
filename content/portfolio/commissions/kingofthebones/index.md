@@ -17,16 +17,16 @@ This project is still growing, and I hope to be able to share more about it soon
 
 ### 3D Renders for BoardGame
 
-![Cards render](cover.jpg)
+![Cards render 01](cover.jpg)
 
-![Cards render](cards02.jpg)
+![Cards render 02](cards02.jpg)
 
 ### Actual BoardGame
 
-![Boardgame](boardgame.jpg)
+![Boardgame Saple](boardgame.jpg)
 
 
 ### Collectibles
-![Trophy](trophy.jpg)
+![Trophy Design](trophy.jpg)
 
-![Tshirt](tshirt.jpg)
+![Tshirt Design](tshirt.jpg)

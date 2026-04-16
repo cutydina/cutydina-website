@@ -8,7 +8,7 @@ These are some of the [Bruce Whipple Webiste](https://brucewhipple.com/) commiss
 
 ### Hell as an endless movie
 
-![Hell](cover.jpg)
+![Hell as an endless movie](cover.jpg)
 One of the last illustrations commissioned for Bruce Whipple Website. This time I was commissioned this Devil illustration. I really liked the concept that I was asked for this commission. The message is intriguing and the style, although it varies a lot from what I normally do, I had a lot of fun doing it, deep down I must admit that I like to make disturbing images from time to time. 
 
 ### Never Give up!
@@ -19,4 +19,4 @@ Interesting Illustration commissions for Bruce Whipple Company. Interesting conc
 
 ### Comic Strips
 
-![Never give up](comicstrip.jpg)
+![Strip](comicstrip.jpg)

@@ -9,8 +9,8 @@ Music Video and character design of [Raemarai](https://www.raemarai.com/), a car
 ### Single Covers for Spotify and Social networks
 
 <div class="row">
-<div class="col-lg-6"><img src="cover.jpg" alt="Sample01"></div>
-<div class="col-lg-6"><img src="rehindeer.jpg" alt="Sample02"></div>
+<div class="col-lg-6"><img src="cover.jpg" alt="Take your time"></div>
+<div class="col-lg-6"><img src="rehindeer.jpg" alt="The Reindeer Asked for Ginger Beer"></div>
 </div>
 
 ### The Reindeer Asked for Ginger Beer AMV
@@ -20,8 +20,8 @@ Music Video and character design of [Raemarai](https://www.raemarai.com/), a car
 ### Raemarai Stills
 
 <div class="row">
-<div class="col-lg-6"><img src="golddress.jpg" alt="Sample01"></div>
-<div class="col-lg-6"><img src="hoodie.jpg" alt="Sample02"></div>
-<div class="col-lg-6"><img src="swimsuit.jpg" alt="Sample01"></div>
-<div class="col-lg-6"><img src="birthday.jpg" alt="Sample02"></div>
+<div class="col-lg-6"><img src="golddress.jpg" alt="Gold Dress"></div>
+<div class="col-lg-6"><img src="hoodie.jpg" alt="Hoddie"></div>
+<div class="col-lg-6"><img src="swimsuit.jpg" alt="Swimsuit"></div>
+<div class="col-lg-6"><img src="birthday.jpg" alt="Birthday"></div>
 </div>

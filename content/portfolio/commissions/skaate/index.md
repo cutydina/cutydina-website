@@ -12,7 +12,7 @@ Designs created for an online clothing brand. These are some samples of the comm
 
 [Main Website](https://www.skaateusa.com/)
 
-![Chibi](cover.jpg)
+![Chibi Boy](cover.jpg)
 
 ![Blue Dog](blue.jpg)
 

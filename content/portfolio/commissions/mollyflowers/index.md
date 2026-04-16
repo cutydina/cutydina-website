@@ -6,7 +6,7 @@ draft = false
 
 Commissioned Children's Book Cover and inside illustrations. First time I do traditional illustrations adapting to an exisisting style. All Illustrations in this book were made with Crayons and I really enjoy making each one of them.
 
-![Cover](cover.jpg)
+![Molly's flowers](cover.jpg)
 
 > "Enjoy 5 Stories, Read, Meet and Enjoy Molly Cow, Mae Mouse, Freddie Fox, Chester Chipmunk, Howie Horse and many more..."
 

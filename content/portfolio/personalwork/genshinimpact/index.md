@@ -18,4 +18,4 @@ Sometimes my fanart or illustrations ideas came from requests from my husband. L
 
 Lately I have started with this great game made by [MiHoYo](https://www.hoyolab.com/genshin/). And the truth is that I have loved the character designs and their beautiful landscapes. So I decided to participate at a contest they did for the game event called *"A sea of lights"*, which consists of the Japanese tradition of launching lanterns into the sky with wishes on them. . Hope you like it.
 
-![Sea of light](seaoflight.jpg) 
+![A Sea of light](seaoflight.jpg) 

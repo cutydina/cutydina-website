@@ -6,7 +6,7 @@ draft = false
 
 An interesting book about bad feelings on children's. I decided to use a different style for illustrate this one, something childish and with free color strokes.
 
-![Cover](cover.jpg)
+![The sly fox of the mind](cover.jpg)
 
 > "The Sly Fox is the book I will buy as gifts for my family and friends this year. It gives young girls the tools they need to build self-esteem with simple exercises that create awareness around negative feelings and then teaches them how to set those feelings free..."
 
@@ -28,4 +28,4 @@ An interesting book about bad feelings on children's. I decided to use a differe
 ### Update
  After some years after making this cute book, this book was reading by Sarah Ferguson at her youtube chanel! I'm so happy to see my work becoming known.
 
-{{< iframe src="https://www.youtube.com/embed/QcGhVv_GtIg" fullscreen=true title="Timelapse 1" >}}
+{{< iframe src="https://www.youtube.com/embed/QcGhVv_GtIg" fullscreen=true title="Sarah Ferguson Video" >}}

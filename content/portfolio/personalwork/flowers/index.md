@@ -8,6 +8,5 @@ Despite being an illustration inspired by the [Flowers Clip Studio](https://www.
 
 ![Flowers](cover.jpg)
 
-
 ### Desktop Wallpaper
 ![Wallpaper](wallpaper.jpg)

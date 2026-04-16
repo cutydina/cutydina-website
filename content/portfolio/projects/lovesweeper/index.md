@@ -6,7 +6,7 @@ draft = false
 
 And here another game made in Godot! A cute MineSweeper with cute skins.
 
-![Hungry Caterpillar](cover.jpg)
+![Love Sweeper](cover.jpg)
 
 > "Enjoy the classic minesweeper with a lovely and cute interface. Now with more skins!"
 

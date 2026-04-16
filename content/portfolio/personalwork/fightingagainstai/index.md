@@ -14,7 +14,7 @@ Anyway, thats why I think this idea came to my mind. I will start applying [Nigh
 
 And I know that I am just another number in this society, one more human, but hey, if I can do nothing more than contribute a small grain of sand to poisoning this tool of evil, I am going to do it.
 
-<div><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfwhW2s_jx276HptBSNU3uBoYXmBDKc_jQvUZPRU7ICdnUVYmt6LtheXpxysujLvjiJgVyA8lKT2BAZO61LNNib8KJL43tXfqvKWo2amoVhhaGUDr4CeXDlzbP_B8jLAC_a9KZYfi2Ev40wXG6Ul85vhPZaghNGWYx7lAEs4_hkJHej3sCagtR9d-dUuz_/s1600/Modernity-glazed-intensity-10-V1-nightshade-intensity-LOW-V1.jpg" ><img alt="Fighting against AI" border="0" data-original-height="1600" data-original-width="1600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfwhW2s_jx276HptBSNU3uBoYXmBDKc_jQvUZPRU7ICdnUVYmt6LtheXpxysujLvjiJgVyA8lKT2BAZO61LNNib8KJL43tXfqvKWo2amoVhhaGUDr4CeXDlzbP_B8jLAC_a9KZYfi2Ev40wXG6Ul85vhPZaghNGWYx7lAEs4_hkJHej3sCagtR9d-dUuz_/s1600/Modernity-glazed-intensity-10-V1-nightshade-intensity-LOW-V1.jpg"/></a></div>
+![Fighting against AI](cover.jpg)
 
 ## Time-lapse
 Also, I exported the Time-lapse on [ClipStudioPaint](https://www.clipstudio.net/). I haven't done any modifications, want to keep all the details so you can see how my creative process works. Start creating and modify in the process, decide each line, colors, and adds, that's the magic of human art.

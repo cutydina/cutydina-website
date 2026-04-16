@@ -8,7 +8,7 @@ My first series of children's books. A project that I really enjoyed illustratin
 
 ###  The Snoozytime Adventures of Maddie and Murphy: To the moon and back
 
-![Cover](cover.jpg)
+![To the moon and back](cover.jpg)
 
 > "Maddie gazes out her window at the moon and stars. As Maddie's bedtime arrives, Mom tells Maddie a secret that a wish on a star could come true! Excited by the possibility, Maddie makes her wish – to go to the moon. Maddie drifts off to sleep and when she opens her eyes she discovers that she's not in her room..."
 
@@ -23,7 +23,7 @@ My first series of children's books. A project that I really enjoyed illustratin
 
 ###  The Snoozytime Adventures of Maddie and Murphy: A christmas journey to the North Pole
 
-![Cover](christmas.jpg)
+![A christmas journey to the North Pole](christmas.jpg)
 
 > "It's Christmas Eve and Maddie eagerly awaits Santa's arrival. As Maddie's bedtime arrives mom and dad remind Maddie that Santa will only visit the houses of sleeping children, and they spark her imagination with the notion that her dreams can become her nighttime adventures..."
 

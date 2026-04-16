@@ -6,7 +6,7 @@ draft = false
 
 Children book written in collab with my husband.. Now Revamped version with fixed illustration and reading format. Enjoy!
 
-![Cover](cover.jpg)
+![The liar princess](cover.jpg)
 
 > "How much damage can a lie cause? Step into a magical story, set in a faraway kingdom, in which a young capricious princess discover how bad lies are, and the harm they can do to our loved ones when they get out of control."
 

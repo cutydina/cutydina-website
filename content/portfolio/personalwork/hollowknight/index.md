@@ -17,7 +17,7 @@ Anyway, here I leave this last fanart related to one of my favorite scenes, givi
 <div class="row mb-3">
 <div class="col-lg-6">  <img alt="Hollow Knight" src="hollowknight_bretta.jpg"/></div>
 <div class="col-lg-6">
-{{< iframe src="https://www.youtube.com/embed/hwR0ddVQokI" fullscreen=true title="Timelapse 1" >}}
+{{< iframe src="https://www.youtube.com/embed/hwR0ddVQokI" fullscreen=true title="Animation" >}}
 </div> 
    </div>
 
@@ -28,7 +28,7 @@ New fanart from Silksong, with Hornet and Sherma. Will do animation later as I d
 <div class="row mb-3">
 <div class="col-lg-6"><img alt="Silksong" src="hollowknight_hornet.jpg"/></div>
 <div class="col-lg-6">  
-{{< iframe src="https://www.youtube.com/embed/SqKboGS1JEI" fullscreen=true title="Timelapse 1" >}}</div>
+{{< iframe src="https://www.youtube.com/embed/SqKboGS1JEI" fullscreen=true title="Animation" >}}</div>
 </div> 
 
 ### TROVIOOOO!!!

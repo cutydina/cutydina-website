@@ -13,7 +13,7 @@ After a long time of coding, I finally get to publish my new version of Axolotl-
 [Download for Free](https://play.google.com/store/apps/details?id=com.CutyDinaGames.AxolotlChan)
 
 ### Trailer
-{{< iframe src="https://www.youtube.com/embed/vTKNsxbqGwc" fullscreen=true title="Timelapse 1" >}}
+{{< iframe src="https://www.youtube.com/embed/vTKNsxbqGwc" fullscreen=true title="Trailer" >}}
 
 ### Screenshots
 <div class="row">

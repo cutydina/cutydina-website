@@ -6,7 +6,7 @@ draft = false
 
 The last Children Book I have worked for. I really enjoyed doing both the illustrations and the book design for this project.
 
-![Cover](cover.jpg)
+![Abuelita Cover](cover.jpg)
 
 > "Vicky cannot believe that her Abuelita can cook so much food for their huge family on such a little old stove and she is convinced there is magic happening inside that kitchen. She is super excited when Abuelita invites her to help cook the family's Sunday dinner..."
 

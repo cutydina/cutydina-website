@@ -12,7 +12,6 @@ Children's illustrations for [Halyn Simone](https://www.halynsimoneengineerkidd.
 
 > What is so special about <b>Halyn-Simone</b> is not the fact she is considered a genius, it is her desire to use her imagination and knowledge to create technology to make the world a better place, especially for her family.
 
-
 <div class="row">
 <div class="col-lg-6"><img src="obama.jpg" alt="Obama"></div>
 <div class="col-lg-6"><img src="blackhistory.jpg" alt="Black History"></div>
@@ -25,7 +24,5 @@ Children's illustrations for [Halyn Simone](https://www.halynsimoneengineerkidd.
 </div>
 
 ![New Year](newyear.jpg)
-
-
 
 ![Authum](cover.jpg)

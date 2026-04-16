@@ -6,16 +6,16 @@ draft = false
 
 After watching the movie of **My Little Pony: Equestria Girls Movie**, I decided to make my own fanarts from this amazing characters, I really get in love with their cute and colorful designs.
 
-![Cover](twilight.jpg)
+![Twilight Sparkle](twilight.jpg)
 
-![Cover](cover.jpg)
+![Sunset Shimmer](cover.jpg)
 
-![Cover](pinkypie.jpg)
+![Pinky Pie](pinkypie.jpg)
 
-![Cover](fluttershy.jpg)
+![Fluttershy](fluttershy.jpg)
 
-![Cover](applejack.jpg)
+![Apple Jack](applejack.jpg)
 
-![Cover](djpon.jpg)
+![Djpon and Octavia](djpon.jpg)
 
-![Cover](rarity.jpg)
+![Rarity](rarity.jpg)

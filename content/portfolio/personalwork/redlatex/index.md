@@ -6,7 +6,7 @@ draft = false
 
 Request from my husband. I always try to learn every time I try a new illustration, so with this illustration I decided to try a new way of drawing. Using the traditional drawing base, I decided to make the fit of the figure with vector geometric shapes, and from there I went on detailing each part of the body. I must admit that I liked the result and that it's a technique that I will continue to use in the future. I must admit that working with **Affinity Designer** has been a great discovery for me, and now I enjoy vector illustration more thanks to this software. In addition, the texture of latex is somewhat complicated, however thanks to it's tools and the appropriate references, I found the texture I was looking for for clothing. 
 
-![Cover](cover.jpg)
+![Red Latex](cover.jpg)
 
 ## Step by Step
 

@@ -4,7 +4,7 @@ date = 2022-09-11
 draft = false
 +++
 
-![Cover](cover.jpg)
+![Kori Studio](cover.jpg)
 
 It's been years since I haven't touched such a delicate topic. After some years trying to making my creative studio work, I have finally decided to say goodbye to this trademark I have bought in the past.
 
@@ -32,7 +32,7 @@ Here you can read all the webcomics I've done in the past with **KoriStudio**'s 
 
   <div class='col-12 col-md-6 col-lg-4 mb-3'>
     <div class="card border-0 text-center">
-      <img src="bollodramas.jpg" alt="Bollo Dramas">
+      <img src="bollodramas.jpg" alt="Bollodramas Ciberneticos">
       <div class="card-img-overlay align-self-end">
         <span class="text-white m-auto">This product is currently offline.</span>
       </div>

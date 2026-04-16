@@ -13,10 +13,10 @@ Just wanted to join some stuff in this fanart. Reminded me a little to the Power
 ### Timelapse and Animation
 <div class="row">
 <div class="col-12 col-md-6 mb-3">
-{{< iframe src="https://www.youtube.com/embed/6BF_TxI2Wzg" fullscreen=true title="Timelapse 1" >}}
+{{< iframe src="https://www.youtube.com/embed/6BF_TxI2Wzg" fullscreen=true title="Timelapse" >}}
 </div>
 
 <div class="col-12 col-md-6 mb-3">
-{{< iframe src="https://www.youtube.com/embed/wbVB_g86nfQ" fullscreen=true title="Timelapse 2" >}}
+{{< iframe src="https://www.youtube.com/embed/wbVB_g86nfQ" fullscreen=true title="Timelapse" >}}
 </div>
 </div>
