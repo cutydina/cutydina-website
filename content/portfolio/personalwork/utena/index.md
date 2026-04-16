@@ -4,4 +4,6 @@ date = 2018-06-24
 draft = false
 +++
 
-Descripción de Utena.
+Fanart from the anime **Shōjo Kakumei Utena**. I love this anime and both versions of the characters from the movie and anime. So I decided to make a mixture between both versions, specially with Anthy.
+
+![Cover](cover.jpg)
