@@ -1,6 +1,6 @@
 +++
 title = "Hungry Caterpillar"
-date = 2024-07-24
+date = 2024-07-27
 draft = false
 +++
 
