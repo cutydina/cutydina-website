@@ -4,4 +4,28 @@ date = 2024-04-12
 draft = false
 +++
 
-Descripción de Nintendo.
+After some time not doing anything digital, I decided to draw again on my tablet. Sorry for some issues in the image, but in these times, we need to poison everyting we upload, since there a a lot of ai thieves on the internet. Anyway, this is a redraw of an old drawing of mine I did long time ago. Enjoy.
+
+![Mario](cover.jpg) 
+
+### Time-lapse
+
+{{< iframe src="https://www.youtube.com/embed/EBx3ErdUb7I" fullscreen=true title="Timelapse" >}}
+
+### Wallpaper
+
+![Wallpaper](wallpaper.jpg) 
+
+### Old VS New
+
+![OldVSNew](beforeafter.jpg) 
+
+And suddenly this concept became a trend. I have always loved the<b> Super Mario Bros</b> saga, so I couldn't help but want to participate in this trend. I decided to use a quick style and more based on the manga style. I really love using new styles and trying different ways of coloring.
+
+![Bowsette](bowsette.jpg) 
+
+![Chompette](chompette.jpg) 
+
+![Yoshiette](yoshiette.jpg) 
+
+![Boosette](boosette.jpg) 
