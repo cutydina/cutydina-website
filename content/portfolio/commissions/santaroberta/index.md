@@ -4,4 +4,7 @@ date = 2021-04-12
 draft = false
 +++
 
-Descripción de Santaroberta.
+Illustration made for this [Facebook fanpage](https://www.facebook.com/Santa-Roberta-101089245447833/). Based on the portrait of a person with a specific outfit, traced in a vector way to be used as a logo at the end.
+
+
+![Cover](cover.jpg)

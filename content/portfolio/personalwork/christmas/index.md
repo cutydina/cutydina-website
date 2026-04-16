@@ -16,7 +16,7 @@ Christmas is around the corner! So I wanted to share this cute Pinup for this lo
 
 ![Wallpaper](Wallpaper.jpg) 
 
-### Old VS New
+### Before and after
 
 Originally I made this illustration a decade ago. So this time I wanted to an updated version, it's somehow the change from youth to adulthood, so this drawing has an important meaning for me.
   

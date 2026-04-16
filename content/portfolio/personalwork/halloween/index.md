@@ -11,7 +11,9 @@ Recently illustration for Halloween 2025! Just want to make a remake of this Pin
 
 ![Vampire](cover.jpg) 
 
-![Vampire Before and After](vampire_beforeafter.jpg) 
+### Before and after
+
+![Before and after](beforeafter.jpg)
 
 ### Time-lapse
 {{< iframe src="https://www.youtube.com/embed/EXg3ws4ObAI" fullscreen=true title="Timelapse" >}}

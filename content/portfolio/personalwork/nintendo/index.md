@@ -12,15 +12,15 @@ After some time not doing anything digital, I decided to draw again on my tablet
 
 {{< iframe src="https://www.youtube.com/embed/EBx3ErdUb7I" fullscreen=true title="Timelapse" >}}
 
-### Wallpaper
+### Desktop Wallpaper
 
 ![Wallpaper](wallpaper.jpg) 
 
-### Old VS New
+### Before and after
 
-![OldVSNew](beforeafter.jpg) 
+![Before and after](beforeafter.jpg)
 
-And suddenly this concept became a trend. I have always loved the<b> Super Mario Bros</b> saga, so I couldn't help but want to participate in this trend. I decided to use a quick style and more based on the manga style. I really love using new styles and trying different ways of coloring.
+And suddenly this concept became a trend. I have always loved the **Super Mario Bros** saga, so I couldn't help but want to participate in this trend. I decided to use a quick style and more based on the manga style. I really love using new styles and trying different ways of coloring.
 
 ![Bowsette](bowsette.jpg) 
 
