@@ -14,15 +14,15 @@ theme = 'hugo-theme-bootstrap'
 [menu]
   # Aquí replicamos el menú que tenías en la barra lateral de Blogger
   [[menu.main]]
-    name = 'Sobre mí'
+    name = 'About'
     url = '/about'
     weight = 10
   [[menu.main]]
-    name = 'Videojuegos'
+    name = 'Videogames'
     url = '/videogames'
     weight = 20
   [[menu.main]]
-    name = 'Comisiones'
+    name = 'Commissions'
     url = '/commissions'
     weight = 30
   [[menu.main]]
