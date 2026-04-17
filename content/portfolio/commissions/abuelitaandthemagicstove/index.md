@@ -14,13 +14,7 @@ The last Children Book I have worked for. I really enjoyed doing both the illust
 
 ### Look inside
 <div class="row">
-  <div class="col-lg">
-    <img src="sample01.jpg" alt="Sample01">
-  </div>
-  <div class="col-lg">
-    <img src="sample02.jpg" alt="Sample02">
-  </div>
-  <div class="col-lg">
-    <img src="sample03.jpg" alt="Sample03">
-  </div>
+<div class="col-lg-4"><img src="sample01.jpg" alt="Sample01"></div>
+<div class="col-lg-4"><img src="sample02.jpg" alt="Sample02"></div>
+<div class="col-lg-4"><img src="sample03.jpg" alt="Sample03"></div>
 </div>

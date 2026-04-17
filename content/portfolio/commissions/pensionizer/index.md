@@ -14,34 +14,33 @@ It took me a while to publish things related to this project. Just after a long 
 
 ![Toronto](toronto.jpg) 
 
-<div class="row">
-<div class="col-lg"><img alt="Doug Home" src="cover.jpg"/></div>
-<div class="col-lg"><img alt="Doug investing" src="investing.jpg"/></div>
+<div class="row mb-3">
+<div class="col-lg-6"><img alt="Doug Home" src="cover.jpg"/></div>
+<div class="col-lg-6"><img alt="Doug investing" src="investing.jpg"/></div>
 </div>
 
 ![Characters](characters.jpg) 
 
-<div class="row">
-<div class="col-lg"><img alt="Making a Puzzle" src="puzzle.jpg"/></div>
-<div class="col-lg"><img alt="Diana" src="diana.jpg"/></div>
+<div class="row mb-3">
+<div class="col-lg-6"><img alt="Making a Puzzle" src="puzzle.jpg"/></div>
+<div class="col-lg-6"><img alt="Diana" src="diana.jpg"/></div>
 </div>
 
 ![Characters](cards.jpg) 
 
-<div class="row">
-<div class="col-lg"><img alt="Franklin Class" src="franklin.jpg"/></div>
-<div class="col-lg"><img alt="Graffiti" src="graffiti.jpg"/></div>
-<div class="col-lg"><img alt="Hats" src="hats.jpg"/></div>
+<div class="row mb-3">
+<div class="col-lg-4"><img alt="Franklin Class" src="franklin.jpg"/></div>
+<div class="col-lg-4"><img alt="Graffiti" src="graffiti.jpg"/></div>
+<div class="col-lg-4"><img alt="Hats" src="hats.jpg"/></div>
 </div>
 
 ### Animations
 
-
 <div class="row">
-<div class="col-12 col-md-6 mb-3">
+<div class="col-lg-6">
 {{< iframe src="https://www.youtube.com/embed/V-mCmfigdIk" fullscreen=true title="Animation" >}}
 </div>
-<div class="col-12 col-md-6 mb-3">
+<div class="col-lg-6">
 {{< iframe src="https://www.youtube.com/embed/JFz-tgT8taU" fullscreen=true title="Animation" >}}
 </div>
 </div>

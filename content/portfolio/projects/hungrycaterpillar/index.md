@@ -18,13 +18,7 @@ Here another videogame made in Godot. This time a cute Skake classic game, this 
 
 ### Screenshots
 <div class="row">
-  <div class="col-lg">
-    <img src="screenshot01.png" alt="Screenshot01">
-  </div>
-  <div class="col-lg">
-    <img src="screenshot02.png" alt="Screenshot02">
-  </div>
-  <div class="col-lg">
-    <img src="screenshot03.png" alt="Screenshot03">
-  </div>
+<div class="col-lg-4"><img src="screenshot01.png" alt="Screenshot01"></div>
+<div class="col-lg-4"><img src="screenshot02.png" alt="Screenshot02"></div>
+<div class="col-lg-4"><img src="screenshot03.png" alt="Screenshot03"></div>
 </div>

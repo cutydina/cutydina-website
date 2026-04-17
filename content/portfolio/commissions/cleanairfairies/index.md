@@ -26,7 +26,7 @@ Commissioned full project for [Clean Air Fairies](https://cleanairfairies.com/) 
 ### Posters and design
 
 <div class="row">
-<div class="col-lg"><img src="chart.jpg" alt="Chart"></div>
-<div class="col-lg"><img src="poster01.jpg" alt="Poster 01"></div>
-<div class="col-lg"><img src="poster02.jpg" alt="Poster 02"></div>
+<div class="col-lg-4"><img src="chart.jpg" alt="Chart"></div>
+<div class="col-lg-4"><img src="poster01.jpg" alt="Poster 01"></div>
+<div class="col-lg-4"><img src="poster02.jpg" alt="Poster 02"></div>
 </div>

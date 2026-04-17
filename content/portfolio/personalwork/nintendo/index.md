@@ -22,10 +22,10 @@ After some time not doing anything digital, I decided to draw again on my tablet
 
 And suddenly this concept became a trend. I have always loved the **Super Mario Bros** saga, so I couldn't help but want to participate in this trend. I decided to use a quick style and more based on the manga style. I really love using new styles and trying different ways of coloring.
 
-![Bowsette](bowsette.jpg) 
 
-![Chompette](chompette.jpg) 
-
-![Yoshiette](yoshiette.jpg) 
-
-![Boosette](boosette.jpg) 
+<div class="row g-3">
+<div class="col-lg-6"><img alt="Bowsette" src="bowsette.jpg"/></div>
+<div class="col-lg-6"><img alt="Chompette" src="chompette.jpg"/></div>
+<div class="col-lg-6"><img alt="Yoshiette" src="yoshiette.jpg"/></div>
+<div class="col-lg-6"><img alt="Boosette" src="boosette.jpg"/></div>
+</div>

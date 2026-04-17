@@ -19,7 +19,7 @@ Music Video and character design of [Raemarai](https://www.raemarai.com/), a car
 
 ### Raemarai Stills
 
-<div class="row">
+<div class="row g-3">
 <div class="col-lg-6"><img src="golddress.jpg" alt="Gold Dress"></div>
 <div class="col-lg-6"><img src="hoodie.jpg" alt="Hoddie"></div>
 <div class="col-lg-6"><img src="swimsuit.jpg" alt="Swimsuit"></div>

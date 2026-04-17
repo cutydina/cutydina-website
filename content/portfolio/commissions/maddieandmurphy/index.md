@@ -16,9 +16,9 @@ My first series of children's books. A project that I really enjoyed illustratin
 
 ### Look inside
 <div class="row">
-<div class="col-lg"><img src="moon01.jpg" alt="Sample01"></div>
-<div class="col-lg"><img src="moon02.jpg" alt="Sample02"></div>
-<div class="col-lg"><img src="moon03.jpg" alt="Sample03"></div>
+<div class="col-lg-4"><img src="moon01.jpg" alt="Sample01"></div>
+<div class="col-lg-4"><img src="moon02.jpg" alt="Sample02"></div>
+<div class="col-lg-4"><img src="moon03.jpg" alt="Sample03"></div>
 </div>
 
 ###  The Snoozytime Adventures of Maddie and Murphy: A christmas journey to the North Pole
@@ -31,7 +31,7 @@ My first series of children's books. A project that I really enjoyed illustratin
 
 ### Look inside
 <div class="row">
-<div class="col-lg"><img src="christmas01.jpg" alt="Sample01"></div>
-<div class="col-lg"><img src="christmas02.jpg" alt="Sample02"></div>
-<div class="col-lg"><img src="christmas03.jpg" alt="Sample03"></div>
+<div class="col-lg-4"><img src="christmas01.jpg" alt="Sample01"></div>
+<div class="col-lg-4"><img src="christmas02.jpg" alt="Sample02"></div>
+<div class="col-lg-4"><img src="christmas03.jpg" alt="Sample03"></div>
 </div>

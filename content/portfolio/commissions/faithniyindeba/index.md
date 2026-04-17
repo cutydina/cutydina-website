@@ -17,17 +17,10 @@ My first youth novel that I have been commissioned to illustrate. A style that I
 ### Look inside
 
 <div class="row">
-  <div class="col-lg">
-    <img src="bakame01.jpg" alt="Sample01">
-  </div>
-  <div class="col-lg">
-    <img src="bakame02.jpg" alt="Sample02">
-  </div>
-  <div class="col-lg">
-    <img src="bakame03.jpg" alt="Sample03">
-  </div>
+<div class="col-lg-4"><img src="bakame01.jpg" alt="Sample01"></div>
+<div class="col-lg-4"><img src="bakame02.jpg" alt="Sample02"></div>
+<div class="col-lg-4"><img src="bakame03.jpg" alt="Sample03"></div>
 </div>
-
 
 ### A thousand Wows
 
@@ -42,13 +35,7 @@ Commissioned Children's Book Cover and inside illustrations. I really love the s
 ### Look inside
 
 <div class="row">
-  <div class="col-lg">
-    <img src="thousandwows01.jpg" alt="Sample01">
-  </div>
-  <div class="col-lg">
-    <img src="thousandwows02.jpg" alt="Sample02">
-  </div>
-  <div class="col-lg">
-    <img src="thousandwows03.jpg" alt="Sample03">
-  </div>
+<div class="col-lg-4"><img src="thousandwows01.jpg" alt="Sample01"></div>
+<div class="col-lg-4"><img src="thousandwows02.jpg" alt="Sample02"></div>
+<div class="col-lg-4"><img src="thousandwows03.jpg" alt="Sample03"></div>
 </div>

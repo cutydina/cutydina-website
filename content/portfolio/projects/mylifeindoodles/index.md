@@ -1,5 +1,5 @@
 +++
-title = "Mylifeindoodles"
+title = "My life in Doodles"
 date = 2021-01-16
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Sarukun"
+title = "Saru-kun"
 date = 2017-06-24
 draft = false
 +++
@@ -13,8 +13,8 @@ Character design, facebook advertisement illustration and logo commission for th
 [Online store](https://www.facebook.com/Saru-Kun-Shop-1450157755103128/)
 
 <div class="row">
-<div class="col-lg"><img src="crossarms.jpg" alt="Saru crossing arms"></div>
-<div class="col-lg"><img src="crossfingers.jpg" alt="Saru crossing fingers"></div>
+<div class="col-lg-6"><img src="crossarms.jpg" alt="Saru crossing arms"></div>
+<div class="col-lg-6"><img src="crossfingers.jpg" alt="Saru crossing fingers"></div>
 </div>
 
 ![Facebook Banner](banner.jpg)

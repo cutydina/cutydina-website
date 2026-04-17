@@ -6,7 +6,7 @@ draft = false
 
 Chibi portraits and designs for [Chaserz Emporium](https://www.chaserzemporium.com). Very happy with this client, her requests have always been clear and therefore it has not been difficult for me to understand what she was looking for. Also, I have always enjoyed the Chibi style in common and making these cute and colorful illustrations was very satisfying.
 
-<div class="row">
+<div class="row g-3">
 <div class="col-lg-6"><img src="cover.jpg" alt="Muffins"></div>
 <div class="col-lg-6"><img src="bakerboy.jpg" alt="Baker Boy"></div>
 <div class="col-lg-6"><img src="bakergirl.jpg" alt="Baker Girl"></div>

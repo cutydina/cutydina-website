@@ -1,5 +1,5 @@
 +++
-title = "Ziggyandmilo"
+title = "Ziggy and Milo"
 date = 2019-09-24
 draft = false
 +++
@@ -14,13 +14,7 @@ Commissioned Children's Book Cover and inside illustrations. A book based on the
 
 ### Look inside
 <div class="row">
-  <div class="col-lg">
-    <img src="sample01.png" alt="Sample01">
-  </div>
-  <div class="col-lg">
-    <img src="sample02.png" alt="Sample02">
-  </div>
-  <div class="col-lg">
-    <img src="sample03.png" alt="Sample03">
-  </div>
+<div class="col-lg-4"><img src="sample01.jpg" alt="Sample01"></div>
+<div class="col-lg-4"><img src="sample02.jpg" alt="Sample02"></div>
+<div class="col-lg-4"><img src="sample03.jpg" alt="Sample03"></div>
 </div>
