@@ -1,0 +1,60 @@
+{{ define "content" }}
+{{- $portfolioPages := where .Site.RegularPages "Section" "portfolio" -}}
+{{- $portfolioPages = sort $portfolioPages "Date" "desc" -}}
+<div class="col-12 p-0">
+  <style>
+    body > header,
+    body > footer {
+      display: none;
+    }
+
+    main[data-kind="home"] {
+      max-width: 100% !important;
+      padding: 0 !important;
+      margin: 0 !important;
+    }
+
+    main[data-kind="home"] > .row.content {
+      margin: 0;
+      --bs-gutter-x: 0;
+      --bs-gutter-y: 0;
+    }
+  </style>
+  <div class="cd-home-page">
+    <aside class="cd-home-sidebar">
+      <div class="cd-home-brand-block">
+        <img class="cd-home-logo" src="{{ "images/brand/logo_cutydina.png" | relURL }}" alt="{{ .Site.Title }}" loading="eager">
+        <p class="cd-home-tagline">Illustration, Animation, Children's Books, Videogames, Web Design, Comics and more.</p>
+      </div>
+
+      <nav class="cd-home-side-menu" aria-label="Portfolio menu">
+        <h1 class="cd-home-side-title">Portfolio</h1>
+        {{- range .Site.Menus.main }}
+          <a class="cd-home-side-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        {{- end }}
+      </nav>
+
+      <a class="cd-home-coffee" href="/commissions/">Buy me a coffee</a>
+    </aside>
+
+    <section class="cd-home-content">
+      <nav class="cd-home-top-menu" aria-label="Main navigation">
+        {{- range .Site.Menus.main }}
+          <a class="cd-home-top-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+        {{- end }}
+      </nav>
+
+      <div class="cd-home-grid" role="list">
+        {{- range first 72 $portfolioPages }}
+          <a class="cd-home-card" href="{{ .RelPermalink }}" role="listitem" aria-label="{{ partial "helpers/title" . }}">
+            <div class="cd-home-card-media">
+              {{- partial "post/thumbnail" . -}}
+            </div>
+            <span class="cd-home-card-title">{{ partial "helpers/title" . }}</span>
+          </a>
+        {{- end }}
+      </div>
+    </section>
+  </div>
+</div>
+{{ end }}
