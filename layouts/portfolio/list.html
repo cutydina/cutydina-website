@@ -1,10 +1,8 @@
 {{ define "content" }}
-{{- $portfolioPages := where .Site.RegularPages "Section" "portfolio" -}}
-{{- $portfolioPages = sort $portfolioPages "Date" "desc" -}}
 <div class="col-12 p-0">
   <div class="cd-home-content">
     <div class="cd-home-grid" role="list">
-      {{- range first 72 $portfolioPages }}
+      {{- range .Paginator.Pages }}
         <a class="cd-home-card" href="{{ .RelPermalink }}" role="listitem" aria-label="{{ partial "helpers/title" . }}">
           <div class="cd-home-card-media">
             {{- partial "post/thumbnail" . -}}
@@ -13,6 +11,7 @@
         </a>
       {{- end }}
     </div>
+    {{- partial "wrap-pagination" . }}
   </div>
 </div>
 {{ end }}

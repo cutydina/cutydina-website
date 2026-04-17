@@ -1,0 +1,16 @@
+<div class="cd-left-sidebar">
+  <div class="cd-home-brand-block">
+    <a href="{{ "" | relLangURL }}" aria-label="Inicio {{ .Site.Title }}">
+      <img class="cd-home-logo" src="{{ "images/brand/logo_cutydina.png" | relURL }}" alt="{{ .Site.Title }}" loading="eager">
+    </a>
+    <p class="cd-home-tagline">Illustration, Animation, Children's Books, Videogames, Web Design, Comics and more.</p>
+  </div>
+
+  <nav class="cd-home-side-menu" aria-label="Main menu">
+    {{- range .Site.Menus.main }}
+      <a class="cd-home-side-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+    {{- end }}
+  </nav>
+
+  <a class="cd-home-coffee" href="/commissions/">Buy me a coffee</a>
+</div>

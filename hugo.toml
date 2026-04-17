@@ -4,12 +4,10 @@ title = 'CutyDina | Illustration & Game Dev'
 theme = 'hugo-theme-bootstrap'
 
 [params]
-  # Activa el modo oscuro para que combine con tu Nobara
   defaultColor = 'dark'
-  # Esto le dice a Hugo que use la cuadrícula para tus posts y portfolio
   mainSections = ['blog', 'portfolio']
-  # Para que las imágenes de tus dibujos se vean bien en las cards
   cardHeight = '200px'
+  breadcrumb = false
 
 [menu]
   # Aquí replicamos el menú que tenías en la barra lateral de Blogger
@@ -29,12 +27,21 @@ theme = 'hugo-theme-bootstrap'
     name = 'Blog'
     url = '/blog'
     weight = 35
-  [[menu.main]]
-    name = 'Portfolio'
-    url = '/portfolio'
-    weight = 40
+
+[params.comment]
+  enable = false
+
+[params.post]
+  panel = false
+
+[params.sidebar]
+  archives = false
+  taxonomiesToggleArchives = false
+
+[params.archive]
+  enable = false
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true # Esto te permite meter HTML/Bootstrap dentro de tus posts
+      unsafe = true
