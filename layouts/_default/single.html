@@ -1,8 +1,11 @@
 {{ define "content" }}
-<div class="content-posts {{ if default true .Params.sidebar }}col-xxl-8{{ else }}col-xxl-12{{ end }}">
+{{- $showSidebar := default false .Params.sidebar -}}
+<div class="content-posts {{ if $showSidebar }}col-xxl-8{{ else }}col-xxl-12 content-posts-centered{{ end }}">
   <div class="container">
     {{- partial "post" . -}}
   </div>
 </div>
-{{- partial "sidebar" . -}}
+{{- if $showSidebar }}
+  {{- partial "sidebar" . -}}
+{{- end }}
 {{ end }}
