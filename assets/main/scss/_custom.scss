@@ -131,8 +131,7 @@ $cd-bg: #efeff2;
 
 .cd-home-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 220px);
-  grid-auto-columns: 1fr;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0;
 }
 
@@ -174,11 +173,19 @@ $cd-bg: #efeff2;
   transform: translateY(0);
 }
 
+.cd-card-hidden {
+  display: none;
+}
+
 .cd-site-main[data-kind="page"],
 .cd-site-main[data-kind="section"],
 .cd-site-main[data-kind="taxonomy"],
 .cd-site-main[data-kind="term"] {
   padding: 2.5rem 2rem 3.5rem !important;
+}
+
+.cd-portfolio-list-shell {
+  margin: -2.5rem -2rem -3.5rem;
 }
 
 .content-posts {
@@ -226,6 +233,14 @@ $cd-bg: #efeff2;
 .cd-entry-card .post-featured-image img,
 .cd-entry-card .post-content img {
   border-radius: 8px;
+}
+
+.cd-entry-recent-posts {
+  margin-top: 1.5rem;
+}
+
+.cd-entry-recent-thumb {
+  max-width: 100px;
 }
 
 @media (max-width: 991.98px) {
@@ -283,6 +298,10 @@ $cd-bg: #efeff2;
   .cd-site-main[data-kind="taxonomy"],
   .cd-site-main[data-kind="term"] {
     padding: 1.6rem 1rem 2rem !important;
+  }
+
+  .cd-portfolio-list-shell {
+    margin: -1.6rem -1rem -2rem;
   }
 }
 

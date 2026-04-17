@@ -17,7 +17,7 @@
     {{- partial "post/reward" . -}}
     {{- partial "hooks/content-end" . -}}
   </div>
-  {{- partial "post/nav" . -}}
+  {{- if eq .Section "portfolio" }}{{- partial "post/nav" . -}}{{- end }}
 </article>
 {{- partial "post/copyright/index" . -}}
-{{- partial "post/related-posts" . -}}
+{{- if eq .Section "portfolio" }}{{- partial "cd/recent-posts-inline" . -}}{{- end }}

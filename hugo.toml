@@ -8,9 +8,10 @@ theme = 'hugo-theme-bootstrap'
   mainSections = ['blog', 'portfolio']
   cardHeight = '200px'
   breadcrumb = false
+  tocPosition = 'content'
 
 [menu]
-  # Aquí replicamos el menú que tenías en la barra lateral de Blogger
+  # Barra superior
   [[menu.main]]
     name = 'About'
     url = '/about'
@@ -23,10 +24,24 @@ theme = 'hugo-theme-bootstrap'
     name = 'Commissions'
     url = '/commissions'
     weight = 30
-  [[menu.main]]
+
+  # Barra lateral izquierda
+  [[menu.sidebar]]
+    name = 'Commissions'
+    url = '/portfolio/commissions'
+    weight = 10
+  [[menu.sidebar]]
+    name = 'Personal Work'
+    url = '/portfolio/personalwork'
+    weight = 20
+  [[menu.sidebar]]
+    name = 'Projects'
+    url = '/portfolio/projects'
+    weight = 30
+  [[menu.sidebar]]
     name = 'Blog'
     url = '/blog'
-    weight = 35
+    weight = 40
 
 [params.comment]
   enable = false
@@ -35,8 +50,10 @@ theme = 'hugo-theme-bootstrap'
   panel = false
 
 [params.sidebar]
+  taxonomiesToggle = false
   archives = false
   taxonomiesToggleArchives = false
+  postsToggle = false
 
 [params.archive]
   enable = false

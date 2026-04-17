@@ -1,0 +1,51 @@
+{{- $count := default .Site.Params.recentPostCount .Params.recentPostCount -}}
+{{- if $count -}}
+  {{- $sections := .Site.Params.mainSections -}}
+  {{- if in (slice "posts" "docs") .Type -}}
+    {{- $sections = slice .Type -}}
+  {{- end -}}
+  {{- $recentPosts := where site.RegularPages.ByDate.Reverse "Type" "in" $sections -}}
+  {{- $recentPosts = where $recentPosts "RelPermalink" "ne" .RelPermalink -}}
+  {{- with first $count $recentPosts -}}
+    <div class="cd-entry-recent-posts accordion recent-posts">
+      <section class="row card component">
+        <div class="card-header">
+          <h2 class="card-title my-2 fs-4 text-surface">
+            {{ i18n "recent_posts" }}
+          </h2>
+        </div>
+        <div class="card-body">
+          <ul class="post-list list-unstyled ms-1 mb-0">
+            {{- range . -}}
+              {{- $thumbnail := false -}}
+              {{- with .Params.images -}}
+                {{- if isset . 0 -}}{{- $thumbnail = true -}}{{- end -}}
+              {{- end -}}
+              {{- $featured := partialCached "functions/thumbnail" . . -}}
+              {{- with $featured -}}{{- $thumbnail = true -}}{{- end -}}
+              <li class="mb-3">
+                <div class="d-flex">
+                  {{- if $thumbnail -}}
+                    <div class="flex-shrink-0 d-flex justify-content-center align-items-center cd-entry-recent-thumb">
+                      {{- partial "post/thumbnail" . -}}
+                    </div>
+                  {{- end -}}
+                  <div class="flex-grow-1 d-flex flex-column h-auto justify-content-center{{ cond $thumbnail ` ms-3` `` }}">
+                    <a class="post-title" href="{{ .RelPermalink }}">
+                      {{ partial "helpers/title" . }}
+                    </a>
+                    <div class="post-meta mt-2">
+                      <span class="post-date">
+                        {{ .Date | time.Format $.Site.Params.dateFormat }}
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </li>
+            {{- end -}}
+          </ul>
+        </div>
+      </section>
+    </div>
+  {{- end -}}
+{{- end -}}

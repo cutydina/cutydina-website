@@ -7,7 +7,7 @@
   </div>
 
   <nav class="cd-home-side-menu" aria-label="Main menu">
-    {{- range .Site.Menus.main }}
+    {{- range .Site.Menus.sidebar }}
       <a class="cd-home-side-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
     {{- end }}
   </nav>

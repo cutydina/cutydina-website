@@ -1,7 +1,7 @@
 {{ define "content" }}
 <div class="col-12 p-0">
   <div class="cd-home-content">
-    <div class="cd-home-grid" role="list">
+    <div class="cd-home-grid" id="cd-grid" role="list">
       {{- range .Paginator.Pages }}
         <a class="cd-home-card" href="{{ .RelPermalink }}" role="listitem" aria-label="{{ partial "helpers/title" . }}">
           <div class="cd-home-card-media">
@@ -11,7 +11,52 @@
         </a>
       {{- end }}
     </div>
-    {{- partial "wrap-pagination" . }}
+
+    <div id="cd-sentinel" style="height:1px"></div>
+
+    {{- with .Paginator.Next }}
+    <a id="cd-next-page" href="{{ .URL }}" hidden></a>
+    {{- end }}
+
+    <script>
+    (function(){
+      var grid     = document.getElementById('cd-grid');
+      var sentinel = document.getElementById('cd-sentinel');
+      var nextLink = document.getElementById('cd-next-page');
+      if (!grid || !sentinel || !nextLink) return;
+
+      var loading = false;
+
+      function loadNext() {
+        if (loading || !nextLink) return;
+        loading = true;
+        var url = nextLink.href;
+        fetch(url)
+          .then(function(r){ return r.text(); })
+          .then(function(html){
+            var parser = new DOMParser();
+            var doc    = parser.parseFromString(html, 'text/html');
+            var cards  = doc.querySelectorAll('#cd-grid .cd-home-card');
+            cards.forEach(function(c){ grid.appendChild(c); });
+            var next = doc.getElementById('cd-next-page');
+            if (next) {
+              nextLink.href = next.href;
+            } else {
+              nextLink = null;
+              observer.disconnect();
+            }
+            loading = false;
+          })
+          .catch(function(){ loading = false; });
+      }
+
+      var observer = new IntersectionObserver(function(entries){
+        if (entries[0].isIntersecting) loadNext();
+      }, { rootMargin: '200px' });
+
+      observer.observe(sentinel);
+    })();
+    </script>
   </div>
 </div>
 {{ end }}
