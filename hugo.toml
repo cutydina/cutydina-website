@@ -3,6 +3,9 @@ languageCode = 'es-es'
 title = 'CutyDina | Illustration & Game Dev'
 theme = 'hugo-theme-bootstrap'
 
+[build]
+  writeStats = true
+
 [params]
   defaultColor = 'dark'
   mainSections = ['blog', 'portfolio']
