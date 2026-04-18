@@ -4,6 +4,8 @@ $cd-pink: #E80088;
 $cd-purple: #3C0373;
 $cd-white: #efeff2;
 $cd-yellow: #FEE243;
+$cd-mute: #ADB4BA;
+$cd-mute-bg: #FFF8C7;
 
 :root {
   --bs-body-font-family: 'Sour Gummy', 'Segoe UI', sans-serif;
@@ -18,15 +20,27 @@ body,button,input,select,textarea,.cd-site-body {
   font-weight: 100;
 }
 
-code,pre,kbd,samp {
-  font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace);
-}
+code,pre,kbd,samp {font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace);}
 
+h1 {font-size: 4em; font-weight: 100;}
 h2 {font-size: 3.2em; font-weight: 100;}
-h3 {font-size: 2.5em; font-weight: 100;}
-h4 {font-size: 1.8em; font-weight: 100;}
-h5 {font-size: 1.5em; font-weight: 100;}
-b {font-size: 1.2em; font-weight: 100;}
+h3 {font-size: 1.8em; font-weight: 100;}
+h4 {font-size: 1.5em; font-weight: 100;}
+h5 {font-size: 1.3em; font-weight: 100;}
+strong {font-weight: 600;font-size: 1.1em}
+
+li {
+  list-style-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 292" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path d="M145.962 50.394c33.134-47.898 66.063-54.591 92.817-44.847 8.885 3.235 17.087 8.285 24.393 14.238 29.301 23.884 40.84 64.236 11.536 112.006-20.513 35.829-78.75 44.42-128.747 109.684-57.139-71.495-86.894-62.786-117.21-93.062-43.589-43.527-31.908-104.744-2.604-128.628s85.016-38.376 119.814 30.609z" fill="rgb(232, 0, 136)"/></svg>');}
+
+blockquote {
+  font-style:italic; 
+  padding:0.8em; 
+  border:0.05em dashed $cd-mute; 
+  text-align: center; 
+  margin: 1em;
+  font-weight: lighter;
+  background-color: $cd-mute-bg;
+}
 
 .cd-entry-card .post-content {color: $cd-purple;}
 
@@ -72,16 +86,15 @@ b {font-size: 1.2em; font-weight: 100;}
 .cd-home-side-menu {
   width: 100%;
   display: flex;
+  font-size: 1.5em;
   flex-direction: column;
   align-items: center;
-  gap: 0.8rem;
+  gap: 1.5em;
 }
 
 .cd-home-side-link {
   color: $cd-purple;
   text-decoration: none;
-  font-size: 1.75rem;
-  line-height: 1.2;
 }
 
 .cd-home-side-link:hover,
@@ -235,7 +248,6 @@ b {font-size: 1.2em; font-weight: 100;}
 }
 
 .cd-entry-title {
-  font-size: 4rem;
   color: $cd-white;
   text-wrap: balance;
   text-align: center;

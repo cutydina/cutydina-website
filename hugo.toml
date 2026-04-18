@@ -11,6 +11,7 @@ theme = 'hugo-theme-bootstrap'
   mainSections = ['blog', 'portfolio']
   cardHeight = '200px'
   breadcrumb = false
+  toc = false
   tocPosition = 'content'
 
 [menu]

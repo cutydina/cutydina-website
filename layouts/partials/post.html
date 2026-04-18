@@ -7,11 +7,6 @@
       <p class="lead mb-3 text-body-emphasis">{{ . }}</p>
     {{- end }}
     {{- partial "hooks/content-begin" . -}}
-    {{- if eq "content" .Site.Params.tocPosition -}}
-      {{- partial "post/toc" . -}}
-    {{- else }}
-      {{- partial "post/toc-wrapper" . -}}
-    {{- end -}}
     {{- partial "post/share" . -}}
     {{- partial "post/content" . -}}
     {{- partial "post/reward" . -}}
