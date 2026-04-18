@@ -6,7 +6,7 @@ draft = false
 
 Some cute avatars I made a time ago. These ones are the ones I like the most.
 
-2021: I'm a little cheesy today... Suddenly I really wanted to do a cartoon portrait of me and my beloved husband. I know how hard it is to find that right person in this sea of people. And the truth is that there is not a day that I am not grateful to have found someone like him to share my life with.
+2021: I'm a little cheesy today... Suddenly I really wanted to do a cartoon portrait of me and my beloved husband. I know how hard it is to find that right person in this sea of people. And the truth is that there is not a day that I am not grateful to have found someone like him to share my life with. <i class="heart-animation"></i>
 
 ![Us](us.jpg)
 

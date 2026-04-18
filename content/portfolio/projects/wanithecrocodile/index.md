@@ -4,7 +4,7 @@ date = 2021-12-24
 draft = false
 +++
 
-After several years trying to publish this children book, I have decided to had revamped and republished it on Amazon. And for Christmas I have also published on FlipBook and you can read it for free here. So Merry Christmas!!!
+After several years trying to publish this children book, I have decided to had revamped and republished it on Amazon. And for Christmas I have also published on FlipBook and you can read it for free here. So Merry Christmas!!! <i class="gift-animation"></i>
 
 ![Wani the crocodile](cover.jpg)
 

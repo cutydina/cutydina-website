@@ -4,7 +4,7 @@ date = 2023-09-21
 draft = false
 +++
 
-Some traditional drawings I've been working on lately, of which I've been uploading the processes on my [Tiktok](https://www.tiktok.com/@cutydina) and [Youtube](https://www.youtube.com/@CutyDina) account. In principle I wanted to vary the Digital a little, although each technique has its particular way of creation, the traditional one has always had something special. Although I must admit that the lack of Ctrl+Z is an aggravation that makes me suffer many times. But hey, it's always good to go back to the roots, and as I've always said, anyone who knows how to draw knows how to draw with any material or technique, whether digital or traditional.
+Some traditional drawings I've been working on lately, of which I've been uploading the processes on my [Tiktok](https://www.tiktok.com/@cutydina) and [Youtube](https://www.youtube.com/@CutyDina) account. In principle I wanted to vary the Digital a little, although each technique has its particular way of creation, the traditional one has always had something special. Although I must admit that the lack of Ctrl+Z is an aggravation that makes me suffer many times. But hey, it's always good to go back to the roots, and as I've always said, anyone who knows how to draw knows how to draw with any material or technique, whether digital or traditional. <i class="heart-animation"></i>
 
 <div class="row g-3">
 <div class="col-lg-6"><img alt="Flowers" src="cover.jpg"/></div>
@@ -30,7 +30,7 @@ In this first one, I have to admit that I've always been fascinated by paintings
 
 ### Rika Portrait
 
-Continuing with the plan of decorative canvas, and as the queen of my home, I decided to make a huge portrait of my lovely pet Rika. She rules the house, so I decided to make a portrait to suit her. Now is part of my room, watching us while we sleep.
+Continuing with the plan of decorative canvas, and as the queen of my home, I decided to make a huge portrait of my lovely pet Rika. She rules the house, so I decided to make a portrait to suit her. Now is part of my room, watching us while we sleep. 
 
 ![Rika](rika.jpg) 
 

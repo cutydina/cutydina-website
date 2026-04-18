@@ -4,7 +4,7 @@ date = 2025-03-24
 draft = false
 +++
 
-After a long time of coding, I finally get to publish my new version of Axolotl-Chan! I have been testing in Godot for a while now, and I decided to add some cute hats to my cute Axolotl. Remember you can play it for free at GooglePlay.
+After a long time of coding, I finally get to publish my new version of Axolotl-Chan! I have been testing in Godot for a while now, and I decided to add some cute hats to my cute Axolotl. Remember you can play it for free at GooglePlay.<i class="heart-animation"></i>
 
 ![Axolotl-chan](cover.jpg)
 

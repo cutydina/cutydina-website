@@ -11,7 +11,7 @@ Descripción de Bambalinasyole.I usually don't make logos, but a friend recommen
 <div class="col-lg-6"><img src="bambalinas_black.jpg" alt="Bambalinas y Ole Black"></div>
 </div>
 
-And as an extra, this other Logo they ask me later based on a cute flamenco cat.
+And as an extra, this other Logo they ask me later based on a cute flamenco cat. <i class="heart-animation"></i>
 
 <div class="row">
 <div class="col-lg-6"><img src="flamencocats_black.jpg" alt="Flamenco Cats Black"></div>

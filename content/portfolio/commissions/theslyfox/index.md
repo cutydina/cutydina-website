@@ -20,6 +20,6 @@ An interesting book about bad feelings on children's. I decided to use a differe
 </div>
 
 ### Update
- After some years after making this cute book, this book was reading by Sarah Ferguson at her youtube chanel! I'm so happy to see my work becoming known.
+ After some years after making this cute book, this book was reading by Sarah Ferguson at her youtube chanel! I'm so happy to see my work becoming known. <i class="heart-animation"></i>
 
 {{< iframe src="https://www.youtube.com/embed/QcGhVv_GtIg" fullscreen=true title="Sarah Ferguson Video" >}}

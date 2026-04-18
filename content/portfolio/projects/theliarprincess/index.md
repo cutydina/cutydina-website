@@ -4,7 +4,7 @@ date = 2022-07-14
 draft = false
 +++
 
-Children book written in collab with my husband.. Now Revamped version with fixed illustration and reading format. Enjoy!
+Children book written in collab with my husband.. Now Revamped version with fixed illustration and reading format. Enjoy! <i class="gift-animation"></i>
 
 ![The liar princess](cover.jpg)
 

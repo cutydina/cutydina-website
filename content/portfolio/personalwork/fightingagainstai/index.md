@@ -17,6 +17,6 @@ And I know that I am just another number in this society, one more human, but he
 ![Fighting against AI](cover.jpg)
 
 ## Time-lapse
-Also, I exported the Time-lapse on [ClipStudioPaint](https://www.clipstudio.net/). I haven't done any modifications, want to keep all the details so you can see how my creative process works. Start creating and modify in the process, decide each line, colors, and adds, that's the magic of human art.
+Also, I exported the Time-lapse on [ClipStudioPaint](https://www.clipstudio.net/). I haven't done any modifications, want to keep all the details so you can see how my creative process works. Start creating and modify in the process, decide each line, colors, and adds, that's the magic of human art.<i class="heart-animation"></i>
 
 {{< iframe src="https://www.youtube.com/embed/5gkB67HpnWg" fullscreen=true title="Timelapse" >}}

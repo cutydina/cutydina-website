@@ -7,7 +7,7 @@ draft = false
 I really enjoy doing illustrations for the holdays. So here a collection of illustrations done for this particular holiday!
  
 ### Vampire Pinup 
-Recently illustration for Halloween 2025! Just want to make a remake of this Pinup i did in the past, i really enjoy doing this vampire. So decide to make a better version this year.
+Recently illustration for Halloween 2025! Just want to make a remake of this Pinup i did in the past, i really enjoy doing this vampire. So decide to make a better version this year. <i class="heart-animation"></i>
 
 ![Vampire](cover.jpg) 
 

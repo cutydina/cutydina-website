@@ -4,7 +4,7 @@ date = 2024-12-13
 draft = false
 +++
 
-Christmas is around the corner! So I wanted to share this cute Pinup for this lovely season! I've always really love Christmas season because it's decoration, it's meaning, the union of the family and friends, also the holidays. It's a time that breathes peace and harmony, and when work leaves me, I love to make an illustration representing my taste for these holidays.
+Christmas is around the corner! So I wanted to share this cute Pinup for this lovely season! I've always really love Christmas season because it's decoration, it's meaning, the union of the family and friends, also the holidays. It's a time that breathes peace and harmony, and when work leaves me, I love to make an illustration representing my taste for these holidays. <i class="gift-animation"></i>
   
 ![Merry Christmas](cover.jpg) 
 

@@ -4,7 +4,7 @@ date = 2013-06-25
 draft = false
 +++
 
-My first commissions for children's books! I was very happy to experience working for this specific audience for the first time, I know that the illustrations are very simple, but it was a small budget and I had to adapt to it. However, I keep these illustrations very fondly.
+My first commissions for children's books! I was very happy to experience working for this specific audience for the first time, I know that the illustrations are very simple, but it was a small budget and I had to adapt to it. However, I keep these illustrations very fondly. <i class="heart-animation"></i>
 
 
 ### The knight who couldn't sleep
