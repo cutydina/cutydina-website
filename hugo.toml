@@ -7,7 +7,7 @@ theme = 'hugo-theme-bootstrap'
   writeStats = true
 
 [params]
-  defaultColor = 'dark'
+  color = 'light'
   dateFormat = '02/01/2006'
   postDate = true
   mainSections = ['blog', 'portfolio']
