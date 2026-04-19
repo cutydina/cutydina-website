@@ -32,12 +32,12 @@
 {{- else -}}
   {{- $featured := partialCached "functions/thumbnail" . . -}}
   {{- with $featured -}}
-    {{- $smallImage := .Resize "320x q90" -}}
-    {{- $mediumImage := .Resize "520x q90" -}}
-    {{- $largeImage := .Resize "760x q90" -}}
+    {{- $smallImage := .Resize "240x q75" -}}
+    {{- $mediumImage := .Resize "400x q75" -}}
+    {{- $largeImage := .Resize "640x q75" -}}
     <picture>
       <source
-        srcset="{{ $smallImage.RelPermalink }} 320w, {{ $mediumImage.RelPermalink }} 520w, {{ $largeImage.RelPermalink }} 760w"
+        srcset="{{ $smallImage.RelPermalink }} 240w, {{ $mediumImage.RelPermalink }} 400w, {{ $largeImage.RelPermalink }} 640w"
         sizes="(max-width: 575.98px) 100vw, (max-width: 991.98px) 50vw, 25vw">
       <img
         class="img-fluid"
