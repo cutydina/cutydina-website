@@ -1,15 +1,4 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-Copyright (c) 2026 Geraldina Sierra (cutydina)
-
-You are free to:
-- Share: Copy and redistribute the material in any medium or format.
-- Adapt: Remix, transform, and build upon the material.
-
-Under the following terms:
-- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- Non-Commercial: You may not use the material for commercial purposes.
-
-Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+## License
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
