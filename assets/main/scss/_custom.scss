@@ -45,6 +45,8 @@ blockquote {
 
 .error-icon img {height: 512px;width: auto}
 
+.post-title {color: $cd-purple;}
+
 .cd-site-shell {
   display: grid;
   grid-template-columns: 300px 1fr;
@@ -136,17 +138,19 @@ blockquote {
   flex: 1 1 180px;
 }
 
+  .btn-scroll-to-top svg{
+    color: $cd-yellow;
+  }
+
 .cd-post-copyright-last-update {
   margin: 0;
-  font-size: 0.82rem;
-  color: $cd-mute;
+  color: $cd-white;
 }
 
 .cd-post-copyright-by {
   margin: 0.15rem 0 0;
-  font-size: 1rem;
-  font-weight: 600;
-  color: $cd-purple;
+  font-size: 1.5em;
+  color: $cd-white;
 }
 
 .cd-human-made {
@@ -416,11 +420,6 @@ blockquote {
 
   .cd-home-side-link {
     font-size: 1.3rem;
-  }
-
-  .cd-home-coffee {
-    margin-top: 0.5rem;
-    align-self: flex-start;
   }
 
   .cd-home-top-menu {
