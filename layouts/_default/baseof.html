@@ -15,13 +15,14 @@
   </head>
   <body class="cd-site-body">
     {{- partial "hooks/body-begin" . }}
-    <div class="cd-site-shell">
+    <div class="cd-site-shell{{ if or (eq .Kind "page") (eq .Section "blog") }} cd-mobile-content-only{{ end }}">
       <aside class="cd-site-left">
         {{- partial "cd/sidebar" . -}}
       </aside>
 
       <section class="cd-site-right">
         <nav class="cd-home-top-menu" aria-label="Main navigation">
+          <a class="cd-home-top-link{{ if $.IsHome }} active{{ end }}" href="{{ "" | relLangURL }}">{{ i18n "home" }}</a>
           {{- range $.Site.Menus.main }}
             <a class="cd-home-top-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
           {{- end }}

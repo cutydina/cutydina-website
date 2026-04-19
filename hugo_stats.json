@@ -43,6 +43,7 @@
       "ul"
     ],
     "classes": [
+      "active",
       "alert",
       "alert-danger",
       "alert-warning",
@@ -87,6 +88,7 @@
       "cd-icon-buymeacoffee",
       "cd-icon-copyright",
       "cd-left-sidebar",
+      "cd-mobile-content-only",
       "cd-post-copyright",
       "cd-post-copyright-by",
       "cd-post-copyright-last-update",
