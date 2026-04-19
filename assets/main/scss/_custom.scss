@@ -105,21 +105,6 @@ blockquote {
   color: $cd-pink;
 }
 
-.cd-home-coffee {
-  margin-top: auto;
-  border: 2px solid $cd-pink;
-  border-radius: 12px;
-  padding: 0.55rem 1rem;
-  text-decoration: none;
-  color: $cd-pink;
-}
-
-.cd-home-coffee:hover,
-.cd-home-coffee:focus-visible {
-  background: $cd-pink;
-  color: #fff;
-}
-
 .post-copyright {
   background: transparent !important;
   border: none !important;
@@ -320,18 +305,8 @@ blockquote {
   line-height: 1.52;
 }
 
-.cd-entry-card .post-featured-image,
-.cd-entry-card .post-featured-image img,
 .cd-entry-card .post-content img {
   border-radius: 8px;
-}
-
-.cd-entry-recent-posts {
-  margin-top: 1.5rem;
-}
-
-.cd-entry-recent-thumb {
-  max-width: 100px;
 }
 
 // Related Work section

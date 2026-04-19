@@ -1,0 +1,60 @@
+<div class="cd-home-content">
+  <div class="cd-home-grid" id="cd-grid" role="list">
+    {{- range .Paginator.Pages }}
+      <a class="cd-home-card" href="{{ .RelPermalink }}" role="listitem" aria-label="{{ partial "helpers/title" . }}">
+        <div class="cd-home-card-media">
+          {{- partial "post/thumbnail" . -}}
+        </div>
+        <span class="cd-home-card-title">
+          {{ partial "helpers/title" . }}
+          <span class="cd-home-card-date">{{ .Date | time.Format $.Site.Params.dateFormat }}</span>
+        </span>
+      </a>
+    {{- end }}
+  </div>
+
+  <div id="cd-sentinel" style="height:1px"></div>
+
+  {{- with .Paginator.Next }}
+  <a id="cd-next-page" href="{{ .URL }}" hidden></a>
+  {{- end }}
+
+  <script>
+  (function(){
+    var grid = document.getElementById('cd-grid');
+    var sentinel = document.getElementById('cd-sentinel');
+    var nextLink = document.getElementById('cd-next-page');
+    if (!grid || !sentinel || !nextLink) return;
+
+    var loading = false;
+
+    function loadNext() {
+      if (loading || !nextLink) return;
+      loading = true;
+      fetch(nextLink.href)
+        .then(function(r){ return r.text(); })
+        .then(function(html){
+          var parser = new DOMParser();
+          var doc = parser.parseFromString(html, 'text/html');
+          var cards = doc.querySelectorAll('#cd-grid .cd-home-card');
+          cards.forEach(function(card){ grid.appendChild(card); });
+          var next = doc.getElementById('cd-next-page');
+          if (next) {
+            nextLink.href = next.href;
+          } else {
+            nextLink = null;
+            observer.disconnect();
+          }
+          loading = false;
+        })
+        .catch(function(){ loading = false; });
+    }
+
+    var observer = new IntersectionObserver(function(entries){
+      if (entries[0].isIntersecting) loadNext();
+    }, { rootMargin: '200px' });
+
+    observer.observe(sentinel);
+  })();
+  </script>
+</div>

@@ -25,9 +25,9 @@
     "webpack-cli": "^5.0.1"
   },
   "scripts": {
-    "build": "webpack",
-    "watch": "onchange -i -k '**/*.html' -- npm run dev",
-    "dev": "cd exampleSite && hugo server --buildDrafts --disableFastRender --gc",
+    "build": "hugo --minify --gc",
+    "watch": "hugo server --buildDrafts --disableFastRender --gc",
+    "dev": "hugo server --buildDrafts --disableFastRender --gc",
     "lint": "npm run eslint && npm run stylelint",
     "eslint": "eslint assets --ext .ts --ext .js",
     "stylelint": "stylelint assets/**/*.scss"

@@ -14,7 +14,7 @@ Christmas is around the corner! So I wanted to share this cute Pinup for this lo
 
 ### Wallpaper
 
-![Wallpaper](Wallpaper.jpg) 
+![Wallpaper](wallpaper.jpg) 
 
 ### Before and after
 

@@ -16,7 +16,7 @@ Simple brief, client want something cute, similar to Helly Kitty style and with 
 
 ### Boook Covers
 
-![Book Cover 01](book01.jpg)
+![Book Cover 01](cover.jpg)
 
 ![Book Cover 02](book02.jpg)
 
