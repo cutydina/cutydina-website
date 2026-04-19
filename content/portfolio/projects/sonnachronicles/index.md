@@ -14,6 +14,6 @@ My husband and I decided to create this project last year, but now I took it and
 
 [WebToons Spanish](https://www.webtoons.com/es/challenge/las-cr%C3%B3nicas-de-sonna/list?title_no=798307)
 
- ## UPDATE
+ ## UPDATE!!
 
 After some time deciding what to do with this comic, I decided to use as a base to make a videogame on Godot. Soon more news about this new project.<i class="heart-animation"></i>

@@ -205,6 +205,13 @@ blockquote {
   transition: transform 180ms ease-out;
 }
 
+.cd-home-card-date {
+  display: block;
+  font-size: 0.78rem;
+  opacity: 0.85;
+  margin-top: 0.2rem;
+}
+
 .cd-home-card:hover .cd-home-card-title,
 .cd-home-card:focus-visible .cd-home-card-title {
   transform: translateY(0);

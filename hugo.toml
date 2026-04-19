@@ -8,6 +8,8 @@ theme = 'hugo-theme-bootstrap'
 
 [params]
   defaultColor = 'dark'
+  dateFormat = '02/01/2006'
+  postDate = true
   mainSections = ['blog', 'portfolio']
   cardHeight = '200px'
   breadcrumb = false
