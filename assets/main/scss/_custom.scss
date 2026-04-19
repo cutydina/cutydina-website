@@ -118,6 +118,44 @@ blockquote {
   color: #fff;
 }
 
+.post-copyright {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  &:hover { transform: none !important; box-shadow: none !important; }
+}
+
+.cd-post-copyright {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+
+.cd-post-copyright-text {
+  flex: 1 1 180px;
+}
+
+.cd-post-copyright-last-update {
+  margin: 0;
+  font-size: 0.82rem;
+  color: $cd-mute;
+}
+
+.cd-post-copyright-by {
+  margin: 0.15rem 0 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: $cd-purple;
+}
+
+.cd-human-made {
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  flex-shrink: 0;
+}
+
 .cd-site-right {
   min-width: 0;
   background: linear-gradient(135deg, $cd-yellow 20%, $cd-pink 50%, $cd-purple 100%);
@@ -291,6 +329,59 @@ blockquote {
 .cd-entry-recent-thumb {
   max-width: 100px;
 }
+
+// Related Work section
+.cd-related-work {
+  background: transparent;
+  border-radius: 16px;
+  padding: 1.5rem 2rem 2rem;
+  margin-top: 2rem;
+}
+
+.cd-related-work-title {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+}
+
+.cd-related-work-grid {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.cd-related-work-card {
+  text-decoration: none;
+  color: #fff;
+  flex: 1 1 120px;
+  max-width: 160px;
+  text-align: center;
+  transition: transform 160ms ease-out;
+  &:hover { transform: translateY(-4px); color: #fff; }
+}
+
+.cd-related-work-thumb {
+  border-radius: 12px;
+  overflow: hidden;
+  aspect-ratio: 3 / 4;
+  background: rgba(255,255,255,0.12);
+  border: 3px solid rgba(255,255,255,0.3);
+  picture, img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.cd-related-work-name {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  font-size: 0.82rem;
+  line-height: 1.25;
+}
+
 
 @media (max-width: 991.98px) {
   .cd-site-shell {
