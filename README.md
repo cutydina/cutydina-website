@@ -11,3 +11,5 @@ Under the following terms:
 - Non-Commercial: You may not use the material for commercial purposes.
 
 Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
