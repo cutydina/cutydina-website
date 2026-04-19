@@ -22,11 +22,7 @@ body,button,input,select,textarea,.cd-site-body {
 
 code,pre,kbd,samp {font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace);}
 
-h1 {font-size: 4em; font-weight: 100;}
-h2 {font-size: 3.2em; font-weight: 100;}
-h3 {font-size: 1.8em; font-weight: 100;}
-h4 {font-size: 1.5em; font-weight: 100;}
-h5 {font-size: 1.3em; font-weight: 100;}
+h1 {font-size: 4em; font-weight: 300;}
 strong {font-weight: 600;font-size: 1.1em}
 
 li {
@@ -41,6 +37,9 @@ blockquote {
   font-weight: lighter;
   background-color: $cd-mute-bg;
 }
+
+#social-net i {margin: 0.1em; font-size: 2.5em;background: linear-gradient($cd-purple,$cd-pink, $cd-yellow);}
+#social-net i:hover {transition:1s;transform: rotate(360deg);}
 
 .cd-entry-card .post-content {color: $cd-purple;}
 
@@ -86,15 +85,16 @@ blockquote {
 .cd-home-side-menu {
   width: 100%;
   display: flex;
-  font-size: 1.5em;
   flex-direction: column;
   align-items: center;
-  gap: 1.5em;
+  gap: 1em;
 }
 
 .cd-home-side-link {
   color: $cd-purple;
   text-decoration: none;
+  font-size: 1.2em;  
+
 }
 
 .cd-home-side-link:hover,

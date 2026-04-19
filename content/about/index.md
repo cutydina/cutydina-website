@@ -43,3 +43,6 @@ I want to emphasize this, I have left META, but I have seen that someone out the
 <a data-bs-custom-class="custom-tooltip" data-placement='top' data-toggle='tooltip' title='Telegram' href="https://t.me/cutydina" target='_blank'><i class='cd cd-social-telegram'></i></a>    
 <a data-bs-custom-class="custom-tooltip" data-placement='top' data-toggle='tooltip' title='Discord' href="https://discord.gg/TpTmfBb2bC" target='_blank'><i class='cd cd-social-discord'></i></a> 
 </div>
+
+
+{{< iframe src="https://www.youtube.com/embed/guuW0-w10fU?si=AikugJBuXGfxGWG0" fullscreen=true title="Animation" >}}
