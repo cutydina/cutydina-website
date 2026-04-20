@@ -1,8 +1,36 @@
 baseURL = 'https://cutydina.github.io/'
-languageCode = 'es-es'
-title = 'CutyDina | Illustration & Game Dev'
+languageCode = 'en-us'
+title = 'CutyDina'
+description = "Illustration, Animation, Children's Books, Videogames, Web Design, Comics and more."
 theme = 'hugo-theme-bootstrap'
+author = "Geraldina Sierra"
+keywords = "cutydina, geraldina sierra, cuty dina, illustration, 2danimation, commissions"
+
+[params.author]
+  name = "Geraldina Sierra"
+  bio = "2D Illustrator & Animator"
+
+
+[params.social]
+  discord = "TpTmfBb2bC"
+  linkedin = "geraldinasierra"
+  facebook = "geraldinasierra"
+  github = "cutydina"
+  instagram = "cutydina"
+  paypal = "geraldinasierra"
+  pinterest = "geraldinasierra"
+  reddit = "CutyDina"
+  telegram = "cutydina"
+  tiktok = "cutydina"
+  website = "https://cutydina.com"
+  youtube = "CutyDina"
+  email = "info@cutydina.com"
+
 googleAnalytics = 'G-5V76N0CTHP'
+
+[params.og]
+  image = "images/VGenCommissions.jpg"
+  locale = "en_US"
 
 [build]
   writeStats = true
@@ -16,6 +44,10 @@ googleAnalytics = 'G-5V76N0CTHP'
   breadcrumb = false
   toc = false
   tocPosition = 'content'
+  copyright = "© 2026 Geraldina Sierra. CutyDina® - All rights reserved."
+  rss = true
+  favicon = "images/favicon.svg"
+  googleSiteVerification = "2f512d19a85c2175d8570896032c92a7"
 
 [menu]
   # Barra superior
