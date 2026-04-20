@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "themes/hugo-theme-bootstrap/assets/js/**/*.ts": "javascript",
+    "**/themes/hugo-theme-bootstrap/assets/js/**/*.ts": "javascript"
+  },
+  "typescript.validate.enable": false
+}
