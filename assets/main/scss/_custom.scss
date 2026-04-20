@@ -375,7 +375,8 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   color: $cd-white;
   text-wrap: balance;
   text-align: center;
-  font-weight: 200;
+  font-size: 3em;
+  font-weight: 300;
 }
 
 .cd-entry-card {
@@ -517,4 +518,6 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
 
 @media (max-width: 575.98px) {
 .cd-home-grid {grid-template-columns: 1fr;}
+.cd-entry-title {font-size: 2em;}
+
 }
