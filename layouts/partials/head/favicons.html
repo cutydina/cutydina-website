@@ -5,10 +5,6 @@
   (dict "size" "180x180" "rel" "apple-touch-icon")
   (dict "size" "192x192")
 }}
-{{- with .Site.Params.favicon.sizes }}
-  {{- $sizes = . }}
-{{- end }}
-
 {{- $svgIcon := "images/favicon.svg" }}
 {{- $svgIconPath := path.Join "static" $svgIcon }}
 {{- $hasSvgIcon := fileExists $svgIconPath }}

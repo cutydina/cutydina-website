@@ -1,0 +1,23 @@
+<div id="cd-loader" class="cd-loader">
+  <svg class="cd-loader-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="45" fill="none" stroke="currentColor" stroke-width="4" opacity="0.2"/>
+    <circle cx="50" cy="50" r="45" fill="none" stroke="currentColor" stroke-width="4" stroke-dasharray="70 220" stroke-linecap="round"/>
+  </svg>
+</div>
+<script>
+  const hideLoader = () => {
+    const loader = document.getElementById('cd-loader');
+    if (loader) {
+      loader.style.display = 'none';
+    }
+  };
+  
+  document.addEventListener('DOMContentLoaded', hideLoader);
+  window.addEventListener('load', hideLoader);
+  
+  if (document.readyState !== 'loading') {
+    hideLoader();
+  }
+  
+  setTimeout(hideLoader, 2000);
+</script>

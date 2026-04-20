@@ -14,8 +14,7 @@
     {{- partial "hooks/head-end" . -}}
   </head>
   <body class="cd-site-body">
-    {{- partial "hooks/body-begin" . }}
-    <div class="cd-site-shell{{ if or (eq .Kind "page") (eq .Section "blog") }} cd-mobile-content-only{{ end }}">
+    {{- partial "hooks/body-begin" . }}    {{- partial "loader" . }}    <div class="cd-site-shell{{ if or (eq .Kind "page") (eq .Section "blog") }} cd-mobile-content-only{{ end }}">
       <aside class="cd-site-left">
         {{- partial "cd/sidebar" . -}}
       </aside>

@@ -52,6 +52,40 @@ blockquote {
 
 #social-net i:hover {transition:1s;transform: rotate(360deg);}
 
+/* Loader */
+.cd-loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: $cd-white;
+  z-index: 9999;
+}
+
+.cd-loader.hidden {
+  display: none;
+}
+
+.cd-loader-svg {
+  width: 60px;
+  height: 60px;
+  color: $cd-purple;
+  animation: cd-spin 2s linear infinite;
+}
+
+@keyframes cd-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .cd-entry-card .post-content {color: $cd-purple;}
 
 .error-icon img {height: 512px;width: auto}
