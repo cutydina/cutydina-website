@@ -3,8 +3,12 @@ import options from "./options";
 
 class Gallery {
   gallery: Viewer;
+  isMobile: boolean;
 
   constructor() {
+    // Detectar si es vista móvil (Bootstrap breakpoint: < 576px)
+    this.isMobile = window.innerWidth < 576;
+
     const defaultOptions: Viewer.Options = {
       filter: (img: HTMLImageElement) => {
         return this.validate(img);
@@ -20,13 +24,19 @@ class Gallery {
     const postContent = document.querySelector(".post-content");
     const container = postContent || document.querySelector("main");
 
-    this.gallery = new Viewer(
-      container,
-      Object.assign(defaultOptions, options)
-    );
+    // Solo inicializar el gallery si no es mobile
+    if (!this.isMobile) {
+      this.gallery = new Viewer(
+        container,
+        Object.assign(defaultOptions, options)
+      );
+    }
   }
 
   run() {
+    // No ejecutar el listener si es mobile
+    if (this.isMobile) return;
+
     document.addEventListener("click", (e: Event) => {
       if (
         e.target &&
