@@ -2,6 +2,7 @@ baseURL = 'https://cutydina.github.io/'
 languageCode = 'es-es'
 title = 'CutyDina | Illustration & Game Dev'
 theme = 'hugo-theme-bootstrap'
+googleAnalytics = 'G-5V76N0CTHP'
 
 [build]
   writeStats = true
