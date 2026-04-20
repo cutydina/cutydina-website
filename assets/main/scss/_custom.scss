@@ -20,6 +20,7 @@ body,button,input,select,textarea,.cd-site-body {
   font-weight: 100;
 }
 
+
 code,pre,kbd,samp {font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace);}
 
 h1 {font-size: 4em; font-weight: 300;}
@@ -38,7 +39,16 @@ blockquote {
   background-color: $cd-mute-bg;
 }
 
-#social-net i {margin: 0.1em; font-size: 2.5em;background: linear-gradient($cd-purple,$cd-pink, $cd-yellow);}
+.cd-entry-card .post-content a {
+  color:$cd-pink; 
+  font-weight: 500;}
+
+#social-net i {
+  margin: 0.1em; 
+  font-size: 2.5em;
+  background: linear-gradient($cd-purple,$cd-pink, $cd-yellow);
+}
+
 #social-net i:hover {transition:1s;transform: rotate(360deg);}
 
 .cd-entry-card .post-content {color: $cd-purple;}
@@ -53,9 +63,7 @@ blockquote {
   min-height: 100vh;
 }
 
-.cd-site-left {
-  background: white;
-}
+.cd-site-left {background: white;}
 
 .cd-left-sidebar {
   position: sticky;
@@ -183,14 +191,14 @@ blockquote {
 }
 
 .cd-home-top-link {
-  color: #fff;
+  color: $cd-white;
   text-decoration: none;
   letter-spacing: 0.01em;
 }
 
 .cd-home-top-link:hover,
 .cd-home-top-link:focus-visible {
-  color: #ffdeef;
+  color: $cd-yellow;
 }
 
 .cd-home-grid {
@@ -271,7 +279,7 @@ blockquote {
 @media (hover: none) {
   .cd-home-card::after {
     opacity: 1;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.08) 35%, rgba(59, 13, 87, 0.72) 100%);
+    background: linear-gradient(135deg, $cd-yellow 20%, $cd-pink 50%, $cd-purple 100%);
   }
 
   .cd-home-card-title {
@@ -360,10 +368,9 @@ blockquote {
 }
 
 .cd-related-work-title {
-  color: #fff;
+  color: $cd-white;
   font-size: 2rem;
   font-weight: 700;
-  margin-bottom: 1.2rem;
 }
 
 .cd-related-work-grid {
@@ -374,12 +381,12 @@ blockquote {
 
 .cd-related-work-card {
   text-decoration: none;
-  color: #fff;
+  color: $cd-white;
   flex: 1 1 120px;
   max-width: 160px;
   text-align: center;
   transition: transform 160ms ease-out;
-  &:hover { transform: translateY(-4px); color: #fff; }
+  &:hover { transform: translateY(-4px); color: $cd-white; }
 }
 
 .cd-related-work-thumb {
