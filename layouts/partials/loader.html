@@ -5,19 +5,39 @@
   </svg>
 </div>
 <script>
-  const hideLoader = () => {
+  (function () {
     const loader = document.getElementById('cd-loader');
-    if (loader) {
-      loader.style.display = 'none';
-    }
-  };
-  
-  document.addEventListener('DOMContentLoaded', hideLoader);
-  window.addEventListener('load', hideLoader);
-  
-  if (document.readyState !== 'loading') {
-    hideLoader();
-  }
-  
-  setTimeout(hideLoader, 2000);
+    if (!loader) return;
+
+    const shownAt = performance.now();
+    const minVisibleMs = 450;
+    const fadeMs = 220;
+    let hidden = false;
+
+    const hideLoader = () => {
+      if (hidden) return;
+      hidden = true;
+      loader.classList.add('hidden');
+      window.setTimeout(() => {
+        loader.style.display = 'none';
+      }, fadeMs);
+    };
+
+    const hideWhenReady = () => {
+      const elapsed = performance.now() - shownAt;
+      const delay = Math.max(0, minVisibleMs - elapsed);
+      window.setTimeout(hideLoader, delay);
+    };
+
+    // Hide after all resources are loaded, but keep a short minimum visibility.
+    window.addEventListener('load', hideWhenReady, { once: true });
+
+    // If restored from bfcache, do not keep loader visible.
+    window.addEventListener('pageshow', (event) => {
+      if (event.persisted) hideLoader();
+    });
+
+    // Hard fallback to avoid a stuck overlay.
+    window.setTimeout(hideLoader, 4000);
+  })();
 </script>
