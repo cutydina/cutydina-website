@@ -9,6 +9,7 @@ keywords = "cutydina, geraldina sierra, cuty dina, illustration, 2danimation, co
 [params.author]
   name = "Geraldina Sierra"
   bio = "2D Illustrator & Animator"
+  avatar = "images/profile.jpg"
 
 
 [params.social]
