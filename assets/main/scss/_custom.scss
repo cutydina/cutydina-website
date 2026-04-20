@@ -10,6 +10,7 @@ $cd-mute-bg: #FFF8C7;
 :root {
   --bs-body-font-family: 'Sour Gummy', 'Segoe UI', sans-serif;
   --bs-font-sans-serif: 'Sour Gummy', 'Segoe UI', sans-serif;
+  font-size: 18px;
 }
 
 body,button,input,select,textarea,.cd-site-body {
@@ -23,7 +24,7 @@ body,button,input,select,textarea,.cd-site-body {
 
 code,pre,kbd,samp {font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace);}
 
-h1 {font-size: 4em; font-weight: 300;}
+h1 {font-size: 3em; font-weight: 300;}
 strong {font-weight: 600;font-size: 1.1em}
 
 li {
@@ -45,7 +46,7 @@ blockquote {
 
 #social-net i {
   margin: 0.1em; 
-  font-size: 2.5em;
+  font-size: 2em;
   background: linear-gradient($cd-purple,$cd-pink, $cd-yellow);
 }
 
@@ -87,9 +88,7 @@ blockquote {
 
 .cd-home-tagline {
   margin: 0;
-  font-size: 1.05rem;
-  line-height: 1.45;
-  color: rgba(46, 29, 107, 0.95);
+  font-size: 0.9em;
 }
 
 .cd-home-side-menu {
@@ -97,14 +96,12 @@ blockquote {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 1em;
+  gap: 0.5em;
 }
 
 .cd-home-side-link {
   color: $cd-purple;
   text-decoration: none;
-  font-size: 1.2em;  
-
 }
 
 .cd-home-side-link:hover,
@@ -131,9 +128,7 @@ blockquote {
   flex: 1 1 180px;
 }
 
-  .btn-scroll-to-top svg{
-    color: $cd-yellow;
-  }
+.btn-scroll-to-top svg{color: $cd-yellow;}
 
 .cd-post-copyright-last-update {
   margin: 0;
@@ -260,7 +255,7 @@ blockquote {
 
 .cd-home-card-date {
   display: block;
-  font-size: 0.78rem;
+  font-size: 0.7rem;
   opacity: 0.9;
   margin-top: 0.35rem;
 }
@@ -287,8 +282,6 @@ blockquote {
     transform: none;
     min-height: auto;
     inset: auto 0 0;
-    padding: 0.65rem;
-    font-size: 0.92rem;
     text-align: left;
     place-items: start;
   }
@@ -351,7 +344,6 @@ blockquote {
 }
 
 .cd-entry-card .post-content {
-  font-size: 1.25rem;
   line-height: 1.52;
 }
 
@@ -369,8 +361,8 @@ blockquote {
 
 .cd-related-work-title {
   color: $cd-white;
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: 1.5rem;
+  font-weight: 600;
 }
 
 .cd-related-work-grid {
@@ -406,7 +398,7 @@ blockquote {
 .cd-related-work-name {
   margin-top: 0.5rem;
   margin-bottom: 0;
-  font-size: 0.82rem;
+  font-size: 0.9rem;
   line-height: 1.25;
 }
 
@@ -452,10 +444,6 @@ blockquote {
     align-items: flex-start;
   }
 
-  .cd-home-side-link {
-    font-size: 1.3rem;
-  }
-
   .cd-home-top-menu {
     position: fixed;
     top: 0;
@@ -482,5 +470,4 @@ blockquote {
 
 @media (max-width: 575.98px) {
 .cd-home-grid {grid-template-columns: 1fr;}
-.cd-entry-card .post-content {font-size: 1.05rem;}
 }
