@@ -9,8 +9,6 @@
     const loader = document.getElementById('cd-loader');
     if (!loader) return;
 
-    const shownAt = performance.now();
-    const minVisibleMs = 450;
     const fadeMs = 220;
     let hidden = false;
 
@@ -23,14 +21,18 @@
       }, fadeMs);
     };
 
-    const hideWhenReady = () => {
-      const elapsed = performance.now() - shownAt;
-      const delay = Math.max(0, minVisibleMs - elapsed);
-      window.setTimeout(hideLoader, delay);
+    const hideAfterFirstPaint = () => {
+      window.requestAnimationFrame(() => {
+        window.requestAnimationFrame(hideLoader);
+      });
     };
 
-    // Hide after all resources are loaded, but keep a short minimum visibility.
-    window.addEventListener('load', hideWhenReady, { once: true });
+    // Hide as soon as DOM is ready to avoid blocking perceived page load.
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', hideAfterFirstPaint, { once: true });
+    } else {
+      hideAfterFirstPaint();
+    }
 
     // If restored from bfcache, do not keep loader visible.
     window.addEventListener('pageshow', (event) => {
@@ -38,6 +40,6 @@
     });
 
     // Hard fallback to avoid a stuck overlay.
-    window.setTimeout(hideLoader, 4000);
+    window.setTimeout(hideLoader, 1500);
   })();
 </script>
