@@ -8,11 +8,11 @@ Commissioned full project for [Clean Air Fairies](https://cleanairfairies.com/) 
 
 ### Website banners
 
-![Wallpaper01](cover.jpg)
+![Wallpaper01](cover.webp)
 
-![Wallpaper01](wallpaper01.jpg)
+![Wallpaper01](wallpaper01.webp)
 
-![Wallpaper01](wallpaper02.jpg)
+![Wallpaper01](wallpaper02.webp)
 
 
 > "CLEAN -Educating children on the importance of looking after their most valuable resource
@@ -26,7 +26,7 @@ Commissioned full project for [Clean Air Fairies](https://cleanairfairies.com/) 
 ### Posters and design
 
 <div class="row">
-<div class="col-lg-4"><img src="chart.jpg" alt="Chart"></div>
-<div class="col-lg-4"><img src="poster01.jpg" alt="Poster 01"></div>
-<div class="col-lg-4"><img src="poster02.jpg" alt="Poster 02"></div>
+<div class="col-lg-4"><img src="chart.webp" alt="Chart"></div>
+<div class="col-lg-4"><img src="poster01.webp" alt="Poster 01"></div>
+<div class="col-lg-4"><img src="poster02.webp" alt="Poster 02"></div>
 </div>

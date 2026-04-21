@@ -14,7 +14,7 @@ Anyway, thats why I think this idea came to my mind. I will start applying [Nigh
 
 And I know that I am just another number in this society, one more human, but hey, if I can do nothing more than contribute a small grain of sand to poisoning this tool of evil, I am going to do it.
 
-![Fighting against AI](cover.jpg)
+![Fighting against AI](cover.webp)
 
 ## Time-lapse
 Also, I exported the Time-lapse on [ClipStudioPaint](https://www.clipstudio.net/). I haven't done any modifications, want to keep all the details so you can see how my creative process works. Start creating and modify in the process, decide each line, colors, and adds, that's the magic of human art.<i class="heart-animation"></i>

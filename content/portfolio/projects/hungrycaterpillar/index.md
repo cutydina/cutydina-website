@@ -7,7 +7,7 @@ draft = false
 
 Here another videogame made in Godot. This time a cute Skake classic game, this time with a cute Caterpillar chasing food.
 
-![Hungry Caterpillar](cover.jpg)
+![Hungry Caterpillar](cover.webp)
 
 > "A remake of the Classic Snake Game. Here you are a chubby caterpillar with a lot of hungry trying to eat all the fruit you see on the ground. Enjoy this classic game with a cute interface."
 

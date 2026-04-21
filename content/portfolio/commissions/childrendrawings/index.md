@@ -8,15 +8,15 @@ One of the last commissions I've been working on lately. A contest for students 
 
 These are some samples of the projects in which I was in charge of the vectorization.
 
-![Eagle](cover.jpg)  
+![Eagle](cover.webp)  
   
-![Eagle Blue](eagleblue.jpg)
+![Eagle Blue](eagleblue.webp)
   
-![Eagle](eagle.jpg)
+![Eagle](eagle.webp)
 
-![Viking](viking.jpg)
+![Viking](viking.webp)
 
-![Bear](bear.jpg)
+![Bear](bear.webp)
 
-![Dragon](dragon.jpg)
+![Dragon](dragon.webp)
 
