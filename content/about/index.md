@@ -22,7 +22,7 @@ If you are interested to work with me, you want to check my commissions rules an
 
 ### Social Networks
 
-I want to emphasize this, I have left META, but I have seen that someone out there has cloned my profile, so please don't look for me at facebook, due to the whole Gen-AI issue I decided to delete my account there for good. Be careful and don't fall into SCAMs. 
+I want to emphasize this, I have left META, but I have seen that someone out there has cloned my profile, so please don't look for me at facebook, there and on instram I just have some placeholder pages until all the GEN-AI stole era is solved. Please don't fall for scammers.
 
 <div class='mb-5 text-center' id='social-net'>
 <a data-bs-custom-class="custom-tooltip" data-placement='top' data-toggle='tooltip' href="https://vgen.co/cutydina/" target='_blank' title='VGen'><i class='cd cd-social-vgen'></i></a>
