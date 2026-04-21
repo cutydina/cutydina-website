@@ -4,7 +4,7 @@ date = 2021-02-27
 draft = false
 +++
 
-![Sonna Chronicles](cover.jpg)
+![Sonna Chronicles](cover.webp)
 
 My husband and I decided to create this project last year, but now I took it and decided to start it. The script by him and and illustrations by me, a story that tries to explain what is depression feel like. Hoping you like it and follow it through **Webtoons**.
 

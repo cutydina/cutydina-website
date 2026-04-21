@@ -6,8 +6,8 @@ draft = false
 
 Thumbnail creation for <a href="https://www.youtube.com/@NoOneisHavingFunHerek" target="_blank">Youtube channel</a> *"No One is Having Fun Here"*. Simple and quick thumbnails I made for this channel.
 
-![Thumb nanny](cover.jpg)
+![Thumb nanny](cover.webp)
 
-![Thumb soldier](soldier.jpg)
+![Thumb soldier](soldier.webp)
 
-![Thumb executor](executor.jpg)
+![Thumb executor](executor.webp)

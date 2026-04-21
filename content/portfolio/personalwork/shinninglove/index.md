@@ -6,7 +6,7 @@ draft = false
 
 Shining Love **Time-lapse** Drawing. Illustration for the new contest of **Clip Studio Paint** ["My Time to Shine!"](https://www.clipstudio.net/en/cspcontest27/). I have to admit that I really enjoy making this illustration, I decided to use a more traditional anime style for this one, Anime styleI've always found it great and fun to draw. 
 
-![Shinning Love](cover.jpg)
+![Shinning Love](cover.webp)
 
 ### Time-lapse
 
@@ -14,4 +14,4 @@ Shining Love **Time-lapse** Drawing. Illustration for the new contest of **Clip 
 
 ### Desktop Wallpaper
 
-![Shinning Love Wallpaper](wallpaper.jpg)
+![Shinning Love Wallpaper](wallpaper.webp)

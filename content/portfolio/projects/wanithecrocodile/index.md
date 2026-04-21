@@ -6,7 +6,7 @@ draft = false
 
 After several years trying to publish this children book, I have decided to had revamped and republished it on Amazon. And for Christmas I have also published on FlipBook and you can read it for free here. So Merry Christmas!!! <i class="gift-animation"></i>
 
-![Wani the crocodile](cover.jpg)
+![Wani the crocodile](cover.webp)
 
 "Enjoy the adventures of Wani the crocodile. In this first chapter you will learn the fun of waking up every day with a great mood for school."
 

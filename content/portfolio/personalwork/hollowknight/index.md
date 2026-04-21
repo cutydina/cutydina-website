@@ -15,7 +15,7 @@ Anyway, here I leave this last fanart related to one of my favorite scenes, givi
  Also, I decided to animate this one. I really enjoy give more life to my illustrations, so this time I decide to animate it on OpenToonz, also practicing the effects and stuff the software have. I really love that software. This was the result. Hope you like it. 
 
 <div class="row g-3">
-<div class="col-lg-6">  <img alt="Hollow Knight" src="hollowknight_bretta.jpg"/></div>
+<div class="col-lg-6">  <img alt="Hollow Knight" src="hollowknight_bretta.webp"/></div>
 <div class="col-lg-6">
 {{< iframe src="https://www.youtube.com/embed/hwR0ddVQokI" fullscreen=true title="Animation" >}}
 </div> 
@@ -26,7 +26,7 @@ Anyway, here I leave this last fanart related to one of my favorite scenes, givi
 New fanart from Silksong, with Hornet and Sherma. Will do animation later as I do with HollowKnight one. 
 
 <div class="row g-3">
-<div class="col-lg-6"><img alt="Silksong" src="hollowknight_hornet.jpg"/></div>
+<div class="col-lg-6"><img alt="Silksong" src="hollowknight_hornet.webp"/></div>
 <div class="col-lg-6">  
 {{< iframe src="https://www.youtube.com/embed/SqKboGS1JEI" fullscreen=true title="Animation" >}}</div>
 </div> 
@@ -35,5 +35,5 @@ New fanart from Silksong, with Hornet and Sherma. Will do animation later as I d
 
 An extra fanArt made for my husband. He became a big fan of this character. 
 
-![Trovio](trovio.jpg) 
+![Trovio](trovio.webp) 
 

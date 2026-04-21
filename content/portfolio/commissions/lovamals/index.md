@@ -8,26 +8,26 @@ Simple brief, client want something cute, similar to Helly Kitty style and with 
 
 ### Website banners
 
-![Wallpaper](wallpaper01.jpg)
+![Wallpaper](wallpaper01.webp)
 
-![Wallpaper](wallpaper02.jpg)
+![Wallpaper](wallpaper02.webp)
 
-![Wallpaper](wallpaper03.jpg)
+![Wallpaper](wallpaper03.webp)
 
 ### Boook Covers
 
-![Book Cover 01](cover.jpg)
+![Book Cover 01](cover.webp)
 
-![Book Cover 02](book02.jpg)
+![Book Cover 02](book02.webp)
 
-![Book Cover 03](book03.jpg)
+![Book Cover 03](book03.webp)
 
-![Book Cover 04](book04.jpg)
+![Book Cover 04](book04.webp)
 
-![Book Cover 05](book05.jpg)
+![Book Cover 05](book05.webp)
 
-![Book Cover 06](book06.jpg)
+![Book Cover 06](book06.webp)
 
 ### Character sheet
 
-![Character Sheet](characters.jpg)
+![Character Sheet](characters.webp)

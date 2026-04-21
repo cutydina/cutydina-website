@@ -6,7 +6,7 @@ draft = false
 
 Christmas is around the corner! So I wanted to share this cute Pinup for this lovely season! I've always really love Christmas season because it's decoration, it's meaning, the union of the family and friends, also the holidays. It's a time that breathes peace and harmony, and when work leaves me, I love to make an illustration representing my taste for these holidays. <i class="gift-animation"></i>
   
-![Merry Christmas](cover.jpg) 
+![Merry Christmas](cover.webp) 
 
 ### Timelapse and Animation
   
@@ -14,14 +14,14 @@ Christmas is around the corner! So I wanted to share this cute Pinup for this lo
 
 ### Wallpaper
 
-![Wallpaper](wallpaper.jpg) 
+![Wallpaper](wallpaper.webp) 
 
 ### Before and after
 
 Originally I made this illustration a decade ago. So this time I wanted to an updated version, it's somehow the change from youth to adulthood, so this drawing has an important meaning for me.
   
-![Before and after](beforeafter.jpg) 
+![Before and after](beforeafter.webp) 
  
 As an extra! This one was made for 2023 christmas. 
 
-![Window Christmas](window.jpg) 
+![Window Christmas](window.webp) 

@@ -9,7 +9,7 @@ keywords = "cutydina, geraldina sierra, cuty dina, illustration, 2danimation, co
 [params.author]
   name = "Geraldina Sierra"
   bio = "2D Illustrator & Animator"
-  avatar = "images/profile.jpg"
+  avatar = "images/profile.webp"
 
 
 [params.social]
@@ -30,7 +30,7 @@ keywords = "cutydina, geraldina sierra, cuty dina, illustration, 2danimation, co
 googleAnalytics = 'G-5V76N0CTHP'
 
 [params.og]
-  image = "images/VGenCommissions.jpg"
+  image = "images/VGenCommissions.webp"
   locale = "en_US"
 
 [build]

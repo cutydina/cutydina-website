@@ -6,7 +6,7 @@ draft = false
 
 Videogame based on my parrot mascot Rika. Besides, in the past, with <a href="https://www.cutydina.com/2022/09/about-kori-studio.html" target="_blank">KoriStudio</a> I created some comic strips based on it, so I update the concept and create an adventure based on this old comic.
 
-![Rika's Adventures](cover.jpg)
+![Rika's Adventures](cover.webp)
 
 > "Rika is a parrot who wants to eat a cake that was left in the kitchen. You have to help Rika by investigating her surroundings, solving puzzles, and making decisions to achieve her goal."
 

@@ -6,7 +6,7 @@ draft = false
 
 An interesting book about bad feelings on children's. I decided to use a different style for illustrate this one, something childish and with free color strokes.
 
-![The sly fox of the mind](cover.jpg)
+![The sly fox of the mind](cover.webp)
 
 > "The Sly Fox is the book I will buy as gifts for my family and friends this year. It gives young girls the tools they need to build self-esteem with simple exercises that create awareness around negative feelings and then teaches them how to set those feelings free..."
 
@@ -14,9 +14,9 @@ An interesting book about bad feelings on children's. I decided to use a differe
 
 ### Look inside
 <div class="row">
-<div class="col-lg-4"><img src="sample01.jpg" alt="Sample01"></div>
-<div class="col-lg-4"><img src="sample02.jpg" alt="Sample02"></div>
-<div class="col-lg-4"><img src="sample03.jpg" alt="Sample03"></div>
+<div class="col-lg-4"><img src="sample01.webp" alt="Sample01"></div>
+<div class="col-lg-4"><img src="sample02.webp" alt="Sample02"></div>
+<div class="col-lg-4"><img src="sample03.webp" alt="Sample03"></div>
 </div>
 
 ### Update
