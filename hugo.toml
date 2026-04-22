@@ -61,7 +61,7 @@ googleAnalytics = 'G-5V76N0CTHP'
     url = '/videogames'
     weight = 20
   [[menu.main]]
-    name = 'Commissioned Work'
+    name = 'Commissions'
     url = '/commissions'
     weight = 30
 
