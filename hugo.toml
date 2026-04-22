@@ -61,27 +61,31 @@ googleAnalytics = 'G-5V76N0CTHP'
     url = '/videogames'
     weight = 20
   [[menu.main]]
-    name = 'Commissions'
+    name = 'Commissioned Work'
     url = '/commissions'
     weight = 30
 
   # Barra lateral izquierda
   [[menu.sidebar]]
-    name = 'Commissions'
-    url = '/portfolio/commissions'
+    name = 'Projects'
+    url = '/portfolio/projects'
     weight = 10
   [[menu.sidebar]]
     name = 'Personal Work'
     url = '/portfolio/personalwork'
     weight = 20
   [[menu.sidebar]]
-    name = 'Projects'
-    url = '/portfolio/projects'
+    name = 'FanArts'
+    url = '/portfolio/fanart'
     weight = 30
+  [[menu.sidebar]]
+    name = 'Commissioned Work'
+    url = '/portfolio/commissionedwork'
+    weight = 40
   [[menu.sidebar]]
     name = 'Blog'
     url = '/blog'
-    weight = 40
+    weight = 50
 
 [params.comment]
   enable = false
