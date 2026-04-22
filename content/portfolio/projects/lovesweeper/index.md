@@ -14,8 +14,8 @@ And here another game made in Godot! A cute MineSweeper with cute skins.
 
 ### Screenshots
 <div class="row">
-<div class="col-lg-4"><img src="screenshot01.png" alt="Screenshot01"></div>
-<div class="col-lg-4"><img src="screenshot02.png" alt="Screenshot02"></div>
-<div class="col-lg-4"><img src="screenshot03.png" alt="Screenshot03"></div>
+<div class="col-lg-4"><img src="screenshot01.webp" alt="Screenshot01"></div>
+<div class="col-lg-4"><img src="screenshot02.webp" alt="Screenshot02"></div>
+<div class="col-lg-4"><img src="screenshot03.webp" alt="Screenshot03"></div>
 </div>
 

@@ -20,76 +20,20 @@ Years passed and I now I get it. I was dragging a trademark without success. Eve
 
 Here you can read all the webcomics I've done in the past with **KoriStudio**'s name. I enjoyed a lot with this cute strips, because they were written by my husband, so it was very fun to create content togheter, but now he has a lot of work and can't dedicate himself to write more about them. He also helped me to write some other stuff, such as **The Liar Princess** **Sonna Chronicles**, so we still work togheter but in a different way.
 
-<div class='row'>
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="tiraschibis.webp" class="card-img" alt="TirasChibis">
-      <div class="card-img-overlay align-self-end">
-        <span class="text-white m-auto">This product is currently offline.</span>
-      </div>
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="bollodramas.webp" alt="Bollodramas Ciberneticos">
-      <div class="card-img-overlay align-self-end">
-        <span class="text-white m-auto">This product is currently offline.</span>
-      </div>
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="uncuentodehadas.webp" class="card-img" alt="Un Cuento de hadas">
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="dragonballsuperchafa.webp" class="card-img" alt="Dragon Ball SuperChafa">
-      <div class="card-img-overlay align-self-end">
-        <a class="card-link link-light" href="https://youtu.be/0-94coF2Mv4?si=DhlDTgw6BYvbck4a" target="_blank">Watch online</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="lafamiliaderika.webp" class="card-img" alt="La familia de Rika">
-      <div class="card-img-overlay align-self-end">
-        <a class="card-link link-light" href="https://youtu.be/NO4QyEUvVkE?si=6ilRgKJtwjYm9mfb" target="_blank">Watch online</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="losnefasticos.webp" class="card-img" alt="Los nefasticos">
-      <div class="card-img-overlay align-self-end">
-        <a class="card-link link-light" href="https://youtu.be/2RxGA0JFEtA?si=BnNvtlYQcEvXA23-" target="_blank">Watch online</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="vidasadolescentes.webp" class="card-img" alt="Vidas Adolescentes">
-      <div class="card-img-overlay align-self-end">
-        <a class="card-link link-light" href="https://youtu.be/CA1Rrt4RxfM?si=BexGGRsW2804xRHj" target="_blank">Watch online</a>
-      </div>
-    </div>
-  </div>
-
-  <div class='col-12 col-md-6 col-lg-4 mb-3'>
-    <div class="card border-0 text-center">
-      <img src="godofredaytobias.webp" class="card-img" alt="Godofreda y Tobias">
-      <div class="card-img-overlay align-self-end">
-        <a class="card-link link-light" href="https://youtu.be/iv21aIFdzTs?si=j7M02q3rK0kG-WqC" target="_blank">Watch online</a>
-      </div>
-    </div>
-  </div>
+<div class='row mb-2'>
+<div class='col-lg'><img src="tiraschibis.webp" alt="TirasChibis"></div>
+<div class='col-lg'><img src="bollodramas.webp" alt="TirasChibis"></div>
+<div class='col-lg'><img src="lafamiliaderika.webp" alt="TirasChibis"></div>
+<div class='col-lg'><img src="losnefasticos.webp" alt="TirasChibis"></div>
 </div>
+<div class='row mb-2'>
+<div class='col-lg'><img src="vidasadolescentes.webp" alt="TirasChibis"></div>
+<div class='col-lg'><img src="dragonballsuperchafa.webp" alt="TirasChibis"></div>
+<div class='col-lg'><img src="godofredaytobias.webp" alt="TirasChibis"></div>
+<div class='col-lg'><img src="uncuentodehadas.webp" alt="TirasChibis"></div>
+</div>
+
+
 
  Rika's Family comic is now offline but [Rika's Adventures](https://play.google.com/store/apps/details?id=com.CutyDinaGames.RikasAdventures) is now available for download at GooglePlay. In other subject, we enjoyed a lot creating this few [Webseries](https://youtube.com/playlist?list=PLbRwHKPM-9Uw6Nao0X588VxZTIRjp6APJ&amp;si=QT_MrywwGsNe9CNh) and uploading them to Youtube, but unfortunately it wasn't as successful as we hoped for. But you can watch online with english subtitles, our main language is spanish so you can hear it in their main language too.
 

@@ -6,12 +6,13 @@ draft = false
 
 Some traditional drawings I've been working on lately, of which I've been uploading the processes on my [Tiktok](https://www.tiktok.com/@cutydina) and [Youtube](https://www.youtube.com/@CutyDina) account. In principle I wanted to vary the Digital a little, although each technique has its particular way of creation, the traditional one has always had something special. Although I must admit that the lack of Ctrl+Z is an aggravation that makes me suffer many times. But hey, it's always good to go back to the roots, and as I've always said, anyone who knows how to draw knows how to draw with any material or technique, whether digital or traditional. <i class="heart-animation"></i>
 
-<div class="row g-3">
-<div class="col-lg-6"><img alt="Flowers" src="cover.webp"/></div>
-<div class="col-lg-6"><img alt="Courtain" src="courtain.webp"/></div>
-<div class="col-lg-6"><img alt="On the beach" src="onthebeach.webp"/></div>
-<div class="col-lg-6"><img alt="Sleeping Beauty" src="sleepingbeauty.webp"/></div>
-</div>
+![Flowers](cover.webp)
+
+![Courtain](courtain.webp)
+
+![On the beach](onthebeach.webp)
+
+![Sleeping Beauty](sleepingbeauty.webp)
 
 ## Canvas Painting
 
