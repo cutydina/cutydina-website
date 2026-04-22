@@ -1,4 +1,4 @@
-{{- $count := default .Site.Params.recentPostCount .Params.recentPostCount -}}
+{{- $count := 4 -}}
 {{- if $count -}}
   {{- $sections := .Site.Params.mainSections -}}
   {{- if in (slice "posts" "docs") .Type -}}
@@ -7,15 +7,15 @@
   {{- $recentPosts := where site.RegularPages.ByDate.Reverse "Type" "in" $sections -}}
   {{- $recentPosts = where $recentPosts "RelPermalink" "ne" .RelPermalink -}}
   {{- with first $count $recentPosts -}}
-    <div class="cd-related-work">
-      <h2 class="cd-related-work-title">{{ i18n "recent_posts" }}:</h2>
-      <div class="cd-related-work-grid">
+    <div class="recent-work">
+      <h2 class="recent-work-title">{{ i18n "recent_posts" }}:</h2>
+      <div class="recent-work-grid">
         {{- range . -}}
-          <a class="cd-related-work-card" href="{{ .RelPermalink }}">
-            <div class="cd-related-work-thumb">
+          <a class="recent-work-card" href="{{ .RelPermalink }}">
+            <div class="recent-work-thumb">
               {{- partial "post/thumbnail" . -}}
             </div>
-            <p class="cd-related-work-name">{{ partial "helpers/title" . }}</p>
+            <p class="recent-work-name">{{ partial "helpers/title" . }}</p>
           </a>
         {{- end -}}
       </div>

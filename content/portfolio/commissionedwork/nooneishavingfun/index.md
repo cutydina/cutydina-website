@@ -11,3 +11,5 @@ Thumbnail creation for <a href="https://www.youtube.com/@NoOneisHavingFunHerek" 
 ![Thumb soldier](soldier.webp)
 
 ![Thumb executor](executor.webp)
+
+![Geisha](geisha.webp)

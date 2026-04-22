@@ -186,6 +186,8 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   max-width: 256px;
   height: auto;
   flex-shrink: 0;
+  pointer-events: none;
+  cursor: default;
 }
 
 .cd-site-right {
@@ -385,6 +387,8 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   font-weight: 300;
 }
 
+.content-posts {max-width: 720px;}
+
 .cd-entry-card {
   margin: 0;
   border: 0;
@@ -406,21 +410,21 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
 }
 
 // Related Work section
-.cd-related-work {
+.recent-work {
   border-radius: 0.5em;
-  padding: 1.5rem 2rem 2rem;
+
   margin-top: 2rem;
 }
 
-.cd-related-work-title {color: $cd-white;}
+.recent-work-title {color: $cd-white;}
 
-.cd-related-work-grid {
+.recent-work-grid {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
 }
 
-.cd-related-work-card {
+.recent-work-card {
   text-decoration: none;
   color: $cd-white;
   flex: 1 1 120px;
@@ -430,7 +434,7 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   &:hover { transform: translateY(-4px); color: $cd-white; }
 }
 
-.cd-related-work-thumb {
+.recent-work-thumb {
   border-radius: 0.5em;
   overflow: hidden;
   aspect-ratio: 4 / 4;
@@ -444,7 +448,7 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   }
 }
 
-.cd-related-work-name {
+.recent-work-name {
   margin-top: 0.5rem;
   font-size: 0.9rem;
 }

@@ -1,4 +1,4 @@
-<div class="post-content mb-3">
+<div class="post-content">
     {{- if and .Summary (default false $.Site.Params.post.readMoreFromContent) (hasPrefix .Content .Summary) }}
         <div id="post-summary">{{ .Summary }}</div>
         <div id="post-content-body">{{- strings.TrimPrefix .Summary .Content | safeHTML -}}</div>

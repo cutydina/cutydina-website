@@ -1,4 +1,4 @@
-<div class="post-meta mb-3">
+<div class="post-meta">
   {{- range $key, $value := .Site.Taxonomies }}
     {{- $taxonomies := ($.GetTerms $key).ByTitle }}
     {{- if eq $.Site.Params.taxonomySortingMethod "popularity" }}{{ $taxonomies = (sort $taxonomies ".Data.Pages" "desc") }}{{ end }}

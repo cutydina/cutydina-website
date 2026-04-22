@@ -6,18 +6,28 @@ draft = false
 
 Some cute avatars I made a time ago. These ones are the ones I like the most.
 
-2021: I'm a little cheesy today... Suddenly I really wanted to do a cartoon portrait of me and my beloved husband. I know how hard it is to find that right person in this sea of people. And the truth is that there is not a day that I am not grateful to have found someone like him to share my life with. <i class="heart-animation"></i>
+**2022:** What have been one of my latest used logos. I decided to stop using an avatar, since I change a lot and I don't want to update so many times, so I decided to make my own logo.
+
+![Avatar 2022](avatar2022.webp)
+
+
+**2021:** I'm a little cheesy today... Suddenly I really wanted to do a cartoon portrait of me and my beloved husband. I know how hard it is to find that right person in this sea of people. And the truth is that there is not a day that I am not grateful to have found someone like him to share my life with. <i class="heart-animation"></i>
 
 ![Us](us.webp)
 
-2020: Cute Kawaii wallpaper made with **Affinity Designer**. This drawing was made for testing the Affinity tools, and I have to admit that I didn't miss anything from Adobe ones. However, the main origin for this character was to use it in **Adobe Character Animator**, which helped me a lot to learn how to use this software well, but in the end I decided to use it only to create this wallpaper. Since as I said, I have decided to stop using Adobe due to its excessive fees and I’m dedicating more to learning OpenSource programs. Although I must admit that the live streaming of **Adobe Character Animator** is pretty cool.
+**2020:** Cute Kawaii wallpaper made with **Affinity Designer**. This drawing was made for testing the Affinity tools, and I have to admit that I didn't miss anything from Adobe ones. However, the main origin for this character was to use it in **Adobe Character Animator**, which helped me a lot to learn how to use this software well, but in the end I decided to use it only to create this wallpaper. Since as I said, I have decided to stop using Adobe due to its excessive fees and I’m dedicating more to learning OpenSource programs. Although I must admit that the live streaming of **Adobe Character Animator** is pretty cool.
 
 ![Cuty Wallpaper](cutywallpaper.webp)
 
-2016: Who says pets are a nuisance? I adore mine, although sometimes they ask me attention while I'm working, but who cares, the love they give me is immeasurable. That's why I decided to create this illustration using my recent Bosto tablet surrounded by my lovely pets, and I don't know, for a change, I changed the color of my hair, although I think I'll still prefer my usual purple hair.
+**2016:** Who says pets are a nuisance? I adore mine, although sometimes they ask me attention while I'm working, but who cares, the love they give me is immeasurable. That's why I decided to create this illustration using my recent Bosto tablet surrounded by my lovely pets, and I don't know, for a change, I changed the color of my hair, although I think I'll still prefer my usual purple hair.
 
 ![Working Time](working.webp)
 
-2013: I think it is important to see how one evolves as an illustrator over the years. And in this illustration I decided to test some new techniques that I have learned. Using **Paint Tool Sai**, which I have always liked due to the ease of shading and illustrating the old-fashioned way. In short, a digital self-portrait with a cartoon touch, and I really loved the result.
+
+**2014:** I think this is one of my favourites, I love swimming and everything water related. So I decide to make this one.
+
+![Avatar 2014](avatar2014.webp)
+
+**2013:** I think it is important to see how one evolves as an illustrator over the years. And in this illustration I decided to test some new techniques that I have learned. Using **Paint Tool Sai**, which I have always liked due to the ease of shading and illustrating the old-fashioned way. In short, a digital self-portrait with a cartoon touch, and I really loved the result.
 
 ![Self Portrait](cover.webp)
