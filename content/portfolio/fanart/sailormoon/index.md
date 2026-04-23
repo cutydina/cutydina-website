@@ -19,3 +19,12 @@ Also I do this one at 2019, when the **#SailorMoonRedraw Challenge** started, bu
 ## Original VS Redraw
 
 ![Original VS Redraw](redraw2019_originalvsfanart.webp) 
+
+## Oldies Sailor Pinups
+
+I really enjoy doing this fanarts in the past. Was fun make sailor scout in their presentation pose. 
+
+![Sailor Moon](moon.webp) 
+
+![Sailor Mercury](mercury.webp) 
+
