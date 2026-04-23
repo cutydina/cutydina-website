@@ -1,50 +1,3 @@
-<div id="cd-loader" class="cd-loader">
-  <svg class="cd-loader-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="50" r="45" fill="none" stroke="currentColor" stroke-width="4" opacity="0.2"/>
-    <circle cx="50" cy="50" r="45" fill="none" stroke="currentColor" stroke-width="4" stroke-dasharray="70 220" stroke-linecap="round"/>
-  </svg>
-</div>
-<script>
-  (function () {
-    const loader = document.getElementById('cd-loader');
-    if (!loader) return;
-
-    const fadeMs = 220;
-    let hidden = false;
-
-    const hideLoader = () => {
-      if (hidden) return;
-      hidden = true;
-      loader.classList.add('hidden');
-      window.setTimeout(() => {
-        loader.style.display = 'none';
-      }, fadeMs);
-    };
-
-    const hideAfterFirstPaint = () => {
-      window.requestAnimationFrame(() => {
-        window.requestAnimationFrame(hideLoader);
-      });
-    };
-
-    // Hide as soon as DOM is ready to avoid blocking perceived page load.
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', hideAfterFirstPaint, { once: true });
-    } else {
-      hideAfterFirstPaint();
-    }
-
-    // If restored from bfcache, do not keep loader visible.
-    window.addEventListener('pageshow', (event) => {
-      if (event.persisted) hideLoader();
-    });
-
-    // Hard fallback to avoid a stuck overlay.
-    window.setTimeout(hideLoader, 1500);
-  })();
-</script>
-
-<script>
 (function() {
   'use strict';
 
@@ -124,4 +77,3 @@
     });
   });
 })();
-</script>

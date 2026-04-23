@@ -21,11 +21,33 @@
 
       <section class="cd-site-right">
         <nav class="cd-home-top-menu" aria-label="Main navigation">
+          <button class="cd-mobile-menu-toggle" aria-label="Toggle mobile menu" aria-expanded="false">
+            <span class="cd-hamburger-line"></span>
+            <span class="cd-hamburger-line"></span>
+            <span class="cd-hamburger-line"></span>
+          </button>
           <a class="cd-home-top-link{{ if $.IsHome }} active{{ end }}" href="{{ "" | relLangURL }}">{{ i18n "home" }}</a>
           {{- range $.Site.Menus.main }}
             <a class="cd-home-top-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
           {{- end }}
         </nav>
+
+        <!-- Mobile Menu Overlay -->
+        <div class="cd-mobile-menu-overlay" aria-hidden="true">
+          <div class="cd-mobile-menu-content">
+            <nav class="cd-mobile-menu-nav" aria-label="Mobile navigation">
+              {{- range .Site.Menus.sidebar }}
+                <a class="cd-mobile-menu-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+              {{- end }}
+            </nav>
+
+            <div class="cd-mobile-menu-footer">
+              <a target="_blank" rel="noopener noreferrer" href="https://buymeacoffee.com/geraldinasierra" class="cd-mobile-menu-coffee">
+                <i class="cd cd-icon-buymeacoffee"></i>Buy me a coffee
+              </a>
+            </div>
+          </div>
+        </div>
         {{- partial "hooks/main-begin" . }}
         <main class="{{- partialCached "functions/container-class" . .FirstSection -}}{{ cond (default true .Params.sidebar) ` has-sidebar` `` }} cd-site-main" data-kind="{{ .Kind }}">
           {{- partialCached "assets/main/init-js" . }}
