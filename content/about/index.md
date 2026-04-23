@@ -10,11 +10,12 @@ draft = false
 <h4>I'm Geraldina Sierra <i class="heart-animation"></i></h4>
   
 <p>I'm a 2D Digital Illustrator and 2D Animator, focused on creating content for different kind of projects, such as comics, video games, animated series, children's books, website design and anything art related.</p>
-<p>If you are interested to work with me, you want to check my commissions rules and ways of payments at my <a href="https://www.cutydina.com/p/commissions.html" target="_blank"> commission</a> section.</p>
 </div>    
 <div class="col-lg-6 text-center">
 <object data="cover.svg" type="image/svg+xml"></object>
 </div>
+
+If you are interested to work with me, you want to check my commissions rules and ways of payments at my [commissions](/commissions).
 
 I'm a 2D Digital Illustrator and 2D Animator, focused on creating content for different kind of projects, such as comics, video games, animated series, children's books, website design and anything art related.
 

@@ -26,7 +26,7 @@
             <span class="cd-hamburger-line"></span>
             <span class="cd-hamburger-line"></span>
           </button>
-          <a class="cd-home-top-link{{ if $.IsHome }} active{{ end }}" href="{{ "" | relLangURL }}">{{ i18n "home" }}</a>
+          <a class="cd-home-top-link{{ if $.IsHome }} active{{ end }}" href="{{ "" | relLangURL }}" aria-label="Home"><i class="fa-solid fa-house"></i></a>
           {{- range $.Site.Menus.main }}
             <a class="cd-home-top-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
           {{- end }}

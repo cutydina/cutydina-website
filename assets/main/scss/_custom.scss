@@ -13,6 +13,7 @@ $cd-mute-bg: #FFF8C7;
   font-size: 18px;
 }
 
+
 body,button,input,select,textarea,.cd-site-body {
   font-family: var(--bs-body-font-family);
   font-optical-sizing: auto;
@@ -49,6 +50,16 @@ blockquote {
   background: linear-gradient($cd-purple,$cd-pink, $cd-yellow);
 }
 
+.coffee-btn{
+  border: 3px solid $cd-pink;
+  background-color: white;
+}
+
+.coffee-btn:hover{
+  background-color: $cd-pink;
+  color: white;
+}
+
 #social-net i:hover {transition:1s;transform: rotate(360deg);}
 
 /* Loader */
@@ -61,7 +72,7 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: $cd-white;
+  background: $cd-pink;
   z-index: 9999;
   opacity: 1;
   transition: opacity 220ms ease;
@@ -111,9 +122,6 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   top: 0;
   height: 100vh;
   padding: 2.2rem 1.8rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   gap: 1.5rem;
 }
 
@@ -491,6 +499,7 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   .cd-home-logo {
     width: 60vw;
     max-width: 180px;
+    
   }
 
   .cd-home-side-menu {
@@ -579,11 +588,12 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   bottom: 0;
   width: 300px;
   max-width: 80vw;
-  background: $cd-white;
+  background: $cd-pink;
   padding: 2rem;
   overflow-y: auto;
   transform: translateX(-100%);
   transition: transform 0.3s ease;
+  color: $cd-white;
 }
 
 .cd-mobile-menu-overlay[aria-hidden="false"] .cd-mobile-menu-content {
@@ -616,7 +626,7 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
 }
 
 .cd-mobile-menu-link {
-  color: $cd-purple;
+  color: $cd-white;
   text-decoration: none;
   font-size: 1.1rem;
   padding: 0.8rem 1rem;
@@ -625,8 +635,7 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
   
   &:hover,
   &:focus-visible {
-    background: rgba($cd-pink, 0.1);
-    color: $cd-pink;
+    color: $cd-yellow;
   }
 }
 

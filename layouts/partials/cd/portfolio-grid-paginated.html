@@ -7,7 +7,6 @@
         </div>
         <span class="cd-home-card-title">
           {{ partial "helpers/title" . }}
-          <span class="cd-home-card-date">{{ .Date | time.Format $.Site.Params.dateFormat }}</span>
         </span>
       </a>
     {{- end }}
