@@ -16,4 +16,4 @@ Comic Strips I decided to create. The first one was made as a personal relief, a
 
 ## UPDATE
 
-And after some time doing some strips, I started with some animated ones. You can watch them via [YouTube](https://www.youtube.com/@CutyDina/) or [TikTok](https://www.tiktok.com/@cutydina.com). Strips will be in Spanish with English translation in the description. <i class="heart-animation"></i>
+And after some time doing some strips, I started with some animated ones. You can watch them via [YouTube](https://www.youtube.com/@CutyDina/) and  [Bluesky](https://bsky.app/profile/cutydina.com).
