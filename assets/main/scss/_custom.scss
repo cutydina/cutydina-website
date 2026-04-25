@@ -105,8 +105,8 @@ background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), 
 
 .cd-entry-card .post-content {color: $cd-purple;}
 
-.error-icon img {height: 512px;width: auto}
-
+.error-icon img {height: 512px;width: auto; pointer-events: none;}
+.error-title{color: $cd-white;}
 .post-title {color: $cd-purple;}
 
 .cd-site-shell {
