@@ -7,19 +7,12 @@
     const menuLinks = document.querySelectorAll('.cd-mobile-menu-link');
     const body = document.body;
 
-    console.log('Mobile menu script loaded');
-    console.log('Menu toggle found:', !!menuToggle);
-    console.log('Menu overlay found:', !!menuOverlay);
-    console.log('Menu links found:', menuLinks.length);
-
     if (!menuToggle || !menuOverlay) {
-      console.log('Missing required elements, exiting');
       return;
     }
 
     function toggleMenu() {
       const isOpen = menuToggle.getAttribute('aria-expanded') === 'true';
-      console.log('Toggle menu called, current state:', isOpen);
       
       if (isOpen) {
         closeMenu();
@@ -29,7 +22,6 @@
     }
 
     function openMenu() {
-      console.log('Opening menu');
       menuToggle.setAttribute('aria-expanded', 'true');
       menuOverlay.setAttribute('aria-hidden', 'false');
       body.classList.add('cd-mobile-menu-open');
@@ -39,7 +31,6 @@
     }
 
     function closeMenu() {
-      console.log('Closing menu');
       menuToggle.setAttribute('aria-expanded', 'false');
       menuOverlay.setAttribute('aria-hidden', 'true');
       body.classList.remove('cd-mobile-menu-open');
@@ -50,7 +41,6 @@
 
     // Toggle menu on button click
     menuToggle.addEventListener('click', function(e) {
-      console.log('Hamburger button clicked');
       e.preventDefault();
       toggleMenu();
     });
