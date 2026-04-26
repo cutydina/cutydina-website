@@ -10,12 +10,6 @@ $cd-mute-bg: #FFF8C7;
 
 // CSS Custom Properties for better maintainability
 :root {
-  --cd-pink: #{$cd-pink};
-  --cd-purple: #{$cd-purple};
-  --cd-white: #{$cd-white};
-  --cd-yellow: #{$cd-yellow};
-  --cd-mute: #{$cd-mute};
-  --cd-mute-bg: #{$cd-mute-bg};
   --bs-body-font-family: 'Sour Gummy', 'Segoe UI', sans-serif;
   --bs-font-sans-serif: 'Sour Gummy', 'Segoe UI', sans-serif;
   font-size: 18px;
@@ -26,15 +20,15 @@ $cd-mute-bg: #FFF8C7;
 body,button,input,select,textarea,.cd-site-body {
   font-family: var(--bs-body-font-family);
   font-optical-sizing: auto;
-  color: var(--cd-purple);
-  background: var(--cd-white);
+  color: $cd-purple;
+  background: $cd-white;
   font-weight: 100;
 }
 
 code,pre,kbd,samp { font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace); }
 
-h1 { font-size: 3em; font-weight: 300; }
-strong { font-weight: 600; font-size: 1.1em; }
+h1 {font-size: 3em; font-weight: 300; }
+strong {font-weight: 600; font-size: 1.1em;}
 
 li {
   list-style-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 292 292" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path d="M145.962 50.394c33.134-47.898 66.063-54.591 92.817-44.847 8.885 3.235 17.087 8.285 24.393 14.238 29.301 23.884 40.84 64.236 11.536 112.006-20.513 35.829-78.75 44.42-128.747 109.684-57.139-71.495-86.894-62.786-117.21-93.062-43.589-43.527-31.908-104.744-2.604-128.628s85.016-38.376 119.814 30.609z" fill="rgb(232, 0, 136)"/></svg>');
@@ -43,31 +37,31 @@ li {
 blockquote {
   font-style: italic;
   padding: 0.8em;
-  border: 0.05em dashed var(--cd-mute);
+  border: 0.05em dashed $cd-mute;
   text-align: center;
   margin: 1em;
   font-weight: lighter;
-  background-color: var(--cd-mute-bg);
+  background-color: $cd-mute-bg;
 }
 
 // Interactive Elements
 .cd-entry-card .post-content a {
-  color: var(--cd-pink);
+  color: $cd-pink;
   font-weight: 500;
 }
 
 #social-net i {
   margin: 0.1em;
   font-size: 2em;
-  background: linear-gradient(var(--cd-purple), var(--cd-pink), var(--cd-yellow));
+  background: linear-gradient($cd-purple, $cd-pink, $cd-yellow);
 }
 
 .coffee-btn {
-  border: 3px solid var(--cd-pink);
+  border: 3px solid $cd-pink;
   background-color: white;
   
   &:hover {
-    background-color: var(--cd-pink);
+    background-color: $cd-pink;
     color: white;
   }
 }
@@ -84,7 +78,7 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--cd-pink);
+  background: $cd-pink;
   z-index: 9999;
   opacity: 1;
   transition: opacity 220ms ease;
@@ -98,7 +92,7 @@ blockquote {
 .cd-loader-svg {
   width: 60px;
   height: 60px;
-  color: var(--cd-purple);
+  color: $cd-purple;
   animation: cd-spin 2s linear infinite;
 }
 
@@ -108,15 +102,15 @@ blockquote {
 }
 
 .viewer-canvas {
-  background: linear-gradient(135deg, rgba(var(--cd-yellow), 0.8), rgba(var(--cd-pink), 0.5), rgba(var(--cd-purple), 0.5));
+  background: linear-gradient(135deg, rgba($cd-yellow, 0.8), rgba($cd-pink, 0.5), rgba($cd-purple, 0.5));
 }
 
 // Content & Layout
-.cd-entry-card .post-content { color: var(--cd-purple); }
+.cd-entry-card .post-content { color: $cd-purple; }
 
 .error-icon img { height: 512px; width: auto; pointer-events: none; }
-.error-title { color: var(--cd-white); }
-.post-title { color: var(--cd-purple); }
+.error-title { color: $cd-white; }
+.post-title { color: $cd-purple; }
 
 // Site Layout Structure
 .cd-site-shell {
@@ -158,13 +152,13 @@ blockquote {
 }
 
 .cd-home-side-link {
-  color: var(--cd-purple);
+  color: $cd-purple;
   text-decoration: none;
   
   &:hover,
   &:focus-visible,
   &.active {
-    color: var(--cd-pink);
+    color: $cd-pink;
   }
 }
 
@@ -188,17 +182,17 @@ blockquote {
   flex: 1 1 180px;
 }
 
-.btn-scroll-to-top svg { color: var(--cd-yellow); }
+.btn-scroll-to-top svg { color: $cd-yellow; }
 
 .cd-post-copyright-last-update {
   margin: 0;
-  color: var(--cd-white);
+  color: $cd-white;
 }
 
 .cd-post-copyright-by {
   margin: 0.15rem 0 0;
   font-size: 1.5em;
-  color: var(--cd-white);
+  color: $cd-white;
 }
 
 .cd-human-made {
@@ -213,7 +207,7 @@ blockquote {
 // Site Main Content Area
 .cd-site-right {
   min-width: 0;
-  background: linear-gradient(135deg, var(--cd-yellow) 20%, var(--cd-pink) 50%, var(--cd-purple) 100%);
+  background: linear-gradient(135deg, $cd-yellow 20%, $cd-pink 50%, $cd-purple 100%);
   background-attachment: fixed;
   background-size: 100vw 100vh;
   background-repeat: no-repeat;
@@ -245,7 +239,7 @@ blockquote {
   position: sticky;
   top: 0;
   z-index: 5;
-  background: var(--cd-pink);
+  background: $cd-pink;
   display: flex;
   justify-content: flex-end;
   gap: 1.2rem;
@@ -254,13 +248,13 @@ blockquote {
 }
 
 .cd-home-top-link {
-  color: var(--cd-white);
+  color: $cd-white;
   text-decoration: none;
   letter-spacing: 0.01em;
   
   &:hover,
   &:focus-visible {
-    color: var(--cd-yellow);
+    color: $cd-yellow;
   }
 }
 
@@ -273,7 +267,7 @@ blockquote {
 
 .cd-home-card {
   position: relative;
-  color: var(--cd-white);
+  color: $cd-white;
   text-decoration: none;
   overflow: hidden;
   isolation: isolate;
@@ -299,7 +293,7 @@ blockquote {
 
 .cd-home-card-media {
   aspect-ratio: 1 / 1;
-  background: var(--cd-white);
+  background: $cd-white;
   
   picture,
   img {
@@ -348,9 +342,9 @@ blockquote {
     height: 46%;
     background: linear-gradient(
       180deg,
-      rgba(var(--cd-purple), 0) 0%,
-      rgba(var(--cd-purple), 0.74) 66%,
-      rgba(var(--cd-pink), 0.9) 100%
+      rgba($cd-purple, 0) 0%,
+      rgba($cd-purple, 0.74) 66%,
+      rgba($cd-pink, 0.9) 100%
     );
   }
 
@@ -402,7 +396,7 @@ blockquote {
 
 // Entry Cards & Content
 .cd-entry-title {
-  color: var(--cd-white);
+  color: $cd-white;
   text-wrap: balance;
   text-align: center;
   font-size: 3em;
@@ -415,7 +409,7 @@ blockquote {
   margin: 0;
   border: 0;
   border-radius: 14px;
-  background: var(--cd-white);
+  background: $cd-white;
   box-shadow: 0 10px 36px rgba(57, 14, 40, 0.24);
   
   .card-body {
@@ -436,7 +430,7 @@ blockquote {
   border-radius: 0.5em;
   margin-top: 2rem;
   
-  &-title { color: var(--cd-white); }
+  &-title { color: $cd-white; }
   
   &-grid {
     display: flex;
@@ -446,7 +440,7 @@ blockquote {
   
   &-card {
     text-decoration: none;
-    color: var(--cd-white);
+    color: $cd-white;
     flex: 1 1 120px;
     max-width: 160px;
     text-align: center;
@@ -454,7 +448,7 @@ blockquote {
     
     &:hover {
       transform: translateY(-4px);
-      color: var(--cd-white);
+      color: $cd-white;
     }
   }
   
@@ -568,7 +562,7 @@ blockquote {
   order: 10;
   
   &:focus-visible {
-    outline: 2px solid var(--cd-yellow);
+    outline: 2px solid $cd-yellow;
     outline-offset: 2px;
   }
 }
@@ -577,7 +571,7 @@ blockquote {
   display: block;
   width: 24px;
   height: 3px;
-  background: var(--cd-white);
+  background: $cd-white;
   margin: 5px 0;
   transition: all 0.3s ease;
   border-radius: 2px;
@@ -609,12 +603,12 @@ blockquote {
   bottom: 0;
   width: 300px;
   max-width: 80vw;
-  background: var(--cd-pink);
+  background: $cd-pink;
   padding: 2rem;
   overflow-y: auto;
   transform: translateX(-100%);
   transition: transform 0.3s ease;
-  color: var(--cd-white);
+  color: $cd-white;
 }
 
 .cd-mobile-menu-overlay[aria-hidden="false"] .cd-mobile-menu-content {
@@ -636,7 +630,7 @@ blockquote {
   .cd-home-tagline {
     margin: 0;
     font-size: 0.85rem;
-    color: var(--cd-purple);
+    color: $cd-purple;
   }
 }
 
@@ -648,7 +642,7 @@ blockquote {
 }
 
 .cd-mobile-menu-link {
-  color: var(--cd-white);
+  color: $cd-white;
   text-decoration: none;
   font-size: 1.1rem;
   padding: 0.8rem 1rem;
@@ -657,7 +651,7 @@ blockquote {
   
   &:hover,
   &:focus-visible {
-    color: var(--cd-yellow);
+    color: $cd-yellow;
   }
 }
 
@@ -669,12 +663,12 @@ blockquote {
   gap: 1.5rem;
   
   .cd-mobile-menu-coffee {
-    color: var(--cd-purple);
+    color: $cd-purple;
     text-decoration: none;
     font-weight: 500;
     
     &:hover {
-      color: var(--cd-pink);
+      color: $cd-pink;
     }
   }
   
@@ -688,7 +682,7 @@ blockquote {
   
   .cd-mobile-menu-copyright {
     font-size: 0.8rem;
-    color: var(--cd-mute);
+    color: $cd-mute;
   }
 }
 
